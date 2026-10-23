@@ -1,0 +1,437 @@
+{
+  "id": "RSlhgyAXsBI",
+  "title": "How I Built It: $30K/Month Micro-SaaS",
+  "description": "Charlie bootstrapped his micro-saas, Links, to over $30K/month, which allowed him to quit his job... twice! In this episode, he shares exactly how he grew Liinks to $30K/month (even in a saturated market), and his advice for building a side project that might help you quit your full-time job, right now in 2026\n\n*Side project ideas you can build with your 9-5:* https://clickhubspot.com/xls2\n\nSay hi to Charlie: https://x.com/charliie\nCheck out Liinks: https://www.liinks.co/\n\n🔔 Follow the Second Channel: @StarterStoryBuild\n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - zero to $30K/month\n1:03 - What’s your story?\n1:32 - What’s the app?\n2:34 - Building side projects\n3:30 - Business metrics\n4:15 - Founder background\n5:47 - Finding the app idea\n6:59 - Liinks growth strategies\n8:23 - Pricing strategy and breakdown\n9:40 - Leaving the 9-5\n10:53 - Mindset behind quitting your job\n12:45 - Tech stack and tools\n13:32 - App demo\n15:01 - Final advice\n\nThis video is an educational case study of this founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+  "channel": "Starter Story",
+  "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+  "uploader_id": "@starterstory",
+  "upload_date": "20261021",
+  "duration": 958,
+  "view_count": 50583,
+  "like_count": 711,
+  "language": "en-US",
+  "tags": [],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "zero to $30K/month",
+      "end_time": 63
+    },
+    {
+      "start_time": 63,
+      "title": "What’s your story?",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "What’s the app?",
+      "end_time": 154
+    },
+    {
+      "start_time": 154,
+      "title": "Building side projects",
+      "end_time": 210
+    },
+    {
+      "start_time": 210,
+      "title": "Business metrics",
+      "end_time": 255
+    },
+    {
+      "start_time": 255,
+      "title": "Founder background",
+      "end_time": 347
+    },
+    {
+      "start_time": 347,
+      "title": "Finding the app idea",
+      "end_time": 419
+    },
+    {
+      "start_time": 419,
+      "title": "Liinks growth strategies",
+      "end_time": 503
+    },
+    {
+      "start_time": 503,
+      "title": "Pricing strategy and breakdown",
+      "end_time": 580
+    },
+    {
+      "start_time": 580,
+      "title": "Leaving the 9-5",
+      "end_time": 653
+    },
+    {
+      "start_time": 653,
+      "title": "Mindset behind quitting your job",
+      "end_time": 765
+    },
+    {
+      "start_time": 765,
+      "title": "Tech stack and tools",
+      "end_time": 812
+    },
+    {
+      "start_time": 812,
+      "title": "App demo",
+      "end_time": 901
+    },
+    {
+      "start_time": 901,
+      "title": "Final advice",
+      "end_time": 958
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=RSlhgyAXsBI",
+  "_version": {
+    "version": "2026.10.21",
+    "release_git_head": "8cdf4fea48ecf4064387375301d7f294ebdb17c1",
+    "repository": "yt-dlp/yt-dlp"
+  },
+  "subtitles": {},
+  "automatic_captions": {
+    "de": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ar&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=bn&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=nl&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=en&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=fr&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=iw&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=hi&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=id&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=it&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ja&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ko&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ml&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pl&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pt&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pa&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ru&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=es&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ta&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=te&tlang=de&fmt=json3",
+        "name": "German"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=uk&tlang=de&fmt=json3",
+        "name": "German"
+      }
+    ],
+    "de-orig": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=de&fmt=json3",
+        "name": "German (Original)"
+      }
+    ],
+    "en": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ar&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=bn&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=nl&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=fr&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=de&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=iw&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=hi&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=id&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=it&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ja&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ko&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ml&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pl&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pt&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pa&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ru&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=es&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ta&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=te&tlang=en&fmt=json3",
+        "name": "English"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=uk&tlang=en&fmt=json3",
+        "name": "English"
+      }
+    ],
+    "en-orig": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=en&fmt=json3",
+        "name": "English (Original)"
+      }
+    ],
+    "es": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ar&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=bn&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=nl&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=en&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=fr&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=de&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=iw&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=hi&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=id&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=it&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ja&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ko&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ml&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pl&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pt&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=pa&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ru&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=ta&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=te&tlang=es&fmt=json3",
+        "name": "Spanish"
+      },
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=uk&tlang=es&fmt=json3",
+        "name": "Spanish"
+      }
+    ],
+    "es-orig": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=RSlhgyAXsBI&lang=es&fmt=json3",
+        "name": "Spanish (Original)"
+      }
+    ]
+  }
+}
