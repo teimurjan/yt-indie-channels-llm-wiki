@@ -8,6 +8,7 @@ const speech = (count: number, sentenceEvery: number, startMs = 0): Segment[] =>
     startMs: startMs + i * 5000,
     durMs: 5000,
     text: (i + 1) % sentenceEvery === 0 ? `s${i}.` : `s${i}`,
+    speakerChange: false,
   }));
 
 describe("toParagraphs", () => {
@@ -20,6 +21,11 @@ describe("toParagraphs", () => {
   it("forces a break at 60 s when no sentence ends", () => {
     const paragraphs = toParagraphs(speech(30, 1000));
     expect(paragraphs.map((p) => p.startMs)).toEqual([0, 60_000, 120_000]);
+  });
+
+  it("always breaks at a speaker change", () => {
+    const segments = speech(4, 1000).map((segment, i) => ({ ...segment, speakerChange: i === 2 }));
+    expect(toParagraphs(segments).map((p) => p.text)).toEqual(["s0 s1", "s2 s3"]);
   });
 
   it("joins segment text with single spaces", () => {

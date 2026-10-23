@@ -6,8 +6,8 @@ import { infoFixture } from "./fixtures.ts";
 const track: Track = { kind: "auto", key: "en-orig", lang: "en" };
 const meta = { fetchedAt: "2026-10-23T00:00:00.000Z", track };
 const segments: Segment[] = [
-  { startMs: 1_000, durMs: 2_000, text: "Hello there." },
-  { startMs: 64_000, durMs: 2_000, text: "Second chapter." },
+  { startMs: 1_000, durMs: 2_000, text: "Hello there.", speakerChange: false },
+  { startMs: 64_000, durMs: 2_000, text: "Second chapter.", speakerChange: false },
 ];
 
 describe("renderMarkdown", () => {

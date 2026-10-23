@@ -90,6 +90,21 @@ describe("parseJson3 quirks", () => {
     expect(segments.map((segment) => segment.text)).toEqual(["Tom & Jerry's 😀 show", "next speaker"]);
   });
 
+  it("marks speaker changes, also in the middle of an event", () => {
+    const segments = parse([event(0, 1000, ">> Hi there."), event(1000, 1000, "Hello. &gt;&gt; How are you?")]);
+    expect(segments.map(({ text, speakerChange }) => [text, speakerChange])).toEqual([
+      ["Hi there.", true],
+      ["Hello.", false],
+      ["How are you?", true],
+    ]);
+  });
+
+  it("finds the speaker changes in real auto captions", () => {
+    const segments = parseJson3(json3Fixture("auto.json3"));
+    expect(segments.filter((segment) => segment.speakerChange).length).toBeGreaterThan(0);
+    expect(segments[0]!.speakerChange).toBe(false);
+  });
+
   it("sorts events by start time", () => {
     const segments = parse([event(5000, 1000, "second"), event(0, 1000, "first")]);
     expect(segments.map((segment) => segment.startMs)).toEqual([0, 5000]);

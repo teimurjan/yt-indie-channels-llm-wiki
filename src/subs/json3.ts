@@ -18,10 +18,9 @@ export const decodeEntities = (text: string): string =>
     return codePoint <= MAX_CODE_POINT ? String.fromCodePoint(codePoint) : entity;
   });
 
-// ">>" marks a speaker change; ASR puts tags like [music] between words.
-export const cleanText = (raw: string): string =>
-  decodeEntities(raw)
-    .replace(/(^|\s)>>+/g, "$1")
+// ASR puts tags like [music] between words.
+const cleanText = (text: string): string =>
+  text
     .replace(/\[[^\]]*\]/g, " ")
     .replace(/\s+/g, " ")
     .trim()
@@ -55,22 +54,21 @@ const newText = (previous: Segment, next: Segment): string | null => {
   return overlap > 0 ? words(next.text).slice(overlap).join(" ") : next.text;
 };
 
-const toCue = (event: Json3["events"][number]): Segment | null => {
-  if (!event.segs) return null;
-  const text = cleanText(event.segs.map((seg) => seg.utf8 ?? "").join(""));
-  if (text === "" || isNonSpeech(text)) return null;
-  return {
-    startMs: event.tStartMs ?? 0,
-    durMs: Math.max(0, event.dDurationMs ?? 0),
-    text,
-  };
+const SPEAKER_CHANGE = />>+/;
+
+/** One cue per speaker turn in the event; ">>" marks a speaker change. */
+const toCues = (event: Json3["events"][number]): Segment[] => {
+  if (!event.segs) return [];
+  const turns = decodeEntities(event.segs.map((seg) => seg.utf8 ?? "").join("")).split(SPEAKER_CHANGE);
+  return turns.flatMap((turn, index) => {
+    const text = cleanText(turn);
+    if (text === "" || isNonSpeech(text)) return [];
+    return [{ startMs: event.tStartMs ?? 0, durMs: Math.max(0, event.dDurationMs ?? 0), text, speakerChange: index > 0 }];
+  });
 };
 
 export const parseJson3 = (doc: Json3): Segment[] => {
-  const cues = doc.events
-    .map(toCue)
-    .filter((cue): cue is Segment => cue !== null)
-    .toSorted((a, b) => a.startMs - b.startMs);
+  const cues = doc.events.flatMap(toCues).toSorted((a, b) => a.startMs - b.startMs);
 
   const segments: Segment[] = [];
   // Compare with the previous cue as displayed, not with its deduplicated segment.

@@ -30,7 +30,7 @@ If yt-dlp prints a warning about a missing impersonate target, install the `curl
 
 ```sh
 pnpm yt fetch <channel> [--limit N] [--since YYYY-MM-DD] [--lang en] [--include-streams]
-                        [--concurrency 2] [--force] [--cookies-from-browser <browser>]
+                        [--concurrency 2] [--pace 15] [--force] [--cookies-from-browser <browser>]
                         [--js-runtime node] [--out data]
 pnpm yt render <channel> [--out data]
 ```
@@ -45,6 +45,7 @@ pnpm yt render <channel> [--out data]
 | `--since YYYY-MM-DD` | Stop a tab at the first video uploaded before this date. The listing has no dates, so the tool reads the date from each video's metadata. |
 | `--lang en` | Language for manual subtitles. |
 | `--concurrency 2` | Number of videos processed at the same time. |
+| `--pace 15` | Minimum number of seconds between the starts of two videos, for all workers together. |
 | `--force` | Fetch videos again that are already done. |
 | `--cookies-from-browser chrome` | Pass your browser cookies to yt-dlp. |
 | `--out data` | Output directory. |
@@ -65,7 +66,11 @@ The tool updates `manifest.json` after each video, with an atomic write (a tempo
 2. The tool selects one caption track from the track lists in that file.
 3. yt-dlp downloads only that track as json3, with `--load-info-json`. This step reuses the saved metadata, so it makes no second page request.
 
-The tool sleeps between requests (`--sleep-requests 1`, `--sleep-subtitles 2`). If yt-dlp reports HTTP 429 or a bot check, the tool tries again up to 3 times. The waits are about 15, 30 and 60 seconds. After that, it marks the video `failed` and continues with the next video.
+### Rate limits
+
+YouTube limits a guest session to about 300 videos per hour for each IP address. The [yt-dlp wiki](https://github.com/yt-dlp/yt-dlp/wiki/Extractors) gives this number. More workers do not raise this limit. So the tool starts at most one video every `--pace` seconds. The default of 15 seconds gives about 240 videos per hour. Two workers let one video download while the next one waits for its start time.
+
+The tool also sleeps between requests (`--sleep-requests 1`, `--sleep-subtitles 2`). If yt-dlp reports HTTP 429 or a bot check, the tool tries again up to 3 times. The waits are about 15, 30 and 60 seconds. If YouTube still blocks the video, the tool marks it `failed` and stops the run. More requests during a block only make the block longer. Wait about an hour, then run the same command again.
 
 ### Caption choice
 
@@ -83,12 +88,13 @@ The manifest records the track key in `captionTrack`. It records the track type,
 
 ### Caption cleanup
 
-The json3 parser turns caption events into segments of `{ startMs, durMs, text }`:
+The json3 parser turns caption events into segments of `{ startMs, durMs, text, speakerChange }`:
 
 - It skips events without text, such as window definitions and newline-only events.
 - It joins word-level pieces of automatic captions into one line per event.
 - If an event overlaps the previous event in time and repeats its text, it keeps only the new words.
-- It decodes HTML entities, removes `>>` speaker-change marks and `[music]`-style tags, and collapses whitespace.
+- It splits an event at each `>>` mark. YouTube puts this mark where a different person starts to speak, and the tool sets `speakerChange` on that segment.
+- It decodes HTML entities, removes `[music]`-style tags, and collapses whitespace.
 - It drops segments that contain only non-speech tags, such as `[Music]`, `(laughs)` or `♪`.
 
 ## Output
@@ -138,7 +144,7 @@ The body has these parts:
 
 - `# <title>`
 - `## Description`, with the description as YouTube gives it.
-- `## Transcript`. Videos without captions do not have this part. A `### <chapter title>` heading starts each chapter. A paragraph covers about 45 to 60 seconds. It ends at the first sentence end after 45 seconds. If no sentence ends, it ends before 60 seconds. A chapter boundary always starts a new paragraph. Each paragraph starts with a timestamp link, such as `[12:34](https://www.youtube.com/watch?v=<id>&t=754s)`. For videos of one hour or longer, the timestamp format is `h:mm:ss`.
+- `## Transcript`. Videos without captions do not have this part. A `### <chapter title>` heading starts each chapter. A paragraph contains the words of one speaker. A speaker change and a chapter boundary always start a new paragraph. A long turn is split into paragraphs of about 45 to 60 seconds. Such a paragraph ends at the first sentence end after 45 seconds. If no sentence ends, it ends before 60 seconds. Each paragraph starts with a timestamp link, such as `[12:34](https://www.youtube.com/watch?v=<id>&t=754s)`. For videos of one hour or longer, the timestamp format is `h:mm:ss`.
 
 A segment belongs to the chapter in which it starts. Chapter times come from the creator, so a chapter can start in the middle of a sentence.
 

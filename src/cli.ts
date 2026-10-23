@@ -7,10 +7,18 @@ import { preflight } from "./preflight.ts";
 import { renderAll } from "./render/write.ts";
 
 const DEFAULT_JS_RUNTIME = "node";
+// YouTube allows a guest session about 300 videos per hour; 15 s keeps a run near 240.
+const DEFAULT_PACE_S = 15;
 
 const positiveInt = (value: string): number => {
   const parsed = Number(value);
   if (!Number.isInteger(parsed) || parsed < 1) throw new InvalidArgumentError("expected a positive integer");
+  return parsed;
+};
+
+const nonNegativeNumber = (value: string): number => {
+  const parsed = Number(value);
+  if (!Number.isFinite(parsed) || parsed < 0) throw new InvalidArgumentError("expected a number of seconds");
   return parsed;
 };
 
@@ -38,14 +46,22 @@ const runPreflight = async (): Promise<void> => {
   if (!result.ok) fail(result.error);
 };
 
-const printSummary = ({ counts, hours, failures }: RunSummary): void => {
+const printSummary = ({ counts, hours, failures, blocked }: RunSummary): void => {
   console.log(
     `\nok: ${counts.ok}, no_captions: ${counts.no_captions}, failed: ${counts.failed}, skipped: ${counts.skipped}`,
   );
   console.log(`video processed: ${hours.toFixed(2)} h`);
-  if (failures.length === 0) return;
-  console.log("failures:");
-  for (const failure of failures) console.log(`  ${failure.id} ${failure.title}: ${failure.error}`);
+  if (failures.length > 0) {
+    console.log("failures:");
+    for (const failure of failures) console.log(`  ${failure.id} ${failure.title}: ${failure.error}`);
+  }
+  if (blocked) {
+    console.log(
+      "\nstopped early: YouTube is rate limiting or bot-checking this IP address. " +
+        "Wait about an hour, then run the same command again. It continues where it stopped. " +
+        "If the block comes back, add --cookies-from-browser or a larger --pace.",
+    );
+  }
 };
 
 type FetchFlags = {
@@ -54,6 +70,7 @@ type FetchFlags = {
   lang: string;
   includeStreams?: boolean;
   concurrency: number;
+  pace: number;
   force?: boolean;
   cookiesFromBrowser?: string;
   jsRuntime?: string;
@@ -73,6 +90,7 @@ program
   .option("--lang <code>", "language for manual subtitles", "en")
   .option("--include-streams", "also fetch the /streams tab")
   .option("--concurrency <n>", "videos fetched in parallel", positiveInt, 2)
+  .option("--pace <seconds>", "minimum seconds between two video starts, across all workers", nonNegativeNumber, DEFAULT_PACE_S)
   .option("--force", "refetch videos that are already done")
   .option("--cookies-from-browser <browser>", "pass browser cookies to yt-dlp")
   .option("--js-runtime <runtime>", `JS runtime for yt-dlp (env YT_JS_RUNTIME, default ${DEFAULT_JS_RUNTIME})`)
@@ -88,6 +106,7 @@ program
       lang: flags.lang,
       includeStreams: flags.includeStreams ?? false,
       concurrency: flags.concurrency,
+      paceMs: flags.pace * 1000,
       force: flags.force ?? false,
       ytdlp: {
         jsRuntime: flags.jsRuntime ?? process.env.YT_JS_RUNTIME ?? DEFAULT_JS_RUNTIME,

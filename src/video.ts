@@ -18,13 +18,13 @@ export type VideoContext = {
 export type VideoOutcome =
   | { status: "ok" | "no_captions"; info: Info; track: Track | null; attempts: number }
   | { status: "too_old"; attempts: number }
-  | { status: "failed"; error: string; attempts: number };
+  | { status: "failed"; error: string; kind: YtDlpErrorKind | null; attempts: number };
 
 const RETRIES = 3;
 const BASE_DELAY_MS = 15_000;
 const SLEEP_REQUESTS_S = "1";
 const SLEEP_SUBTITLES_S = "2";
-const RETRYABLE: ReadonlySet<YtDlpErrorKind> = new Set(["rate_limited", "bot_check"]);
+export const RETRYABLE: ReadonlySet<YtDlpErrorKind> = new Set(["rate_limited", "bot_check"]);
 
 type Attempted = { result: Result<string, YtDlpError>; attempts: number };
 
@@ -40,7 +40,12 @@ const withRetry = async (label: string, run: () => Promise<Result<string, YtDlpE
 
 const escapeRegex = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-const failed = (error: string, attempts: number): VideoOutcome => ({ status: "failed", error, attempts });
+const failed = (error: string, attempts: number, kind: YtDlpErrorKind | null = null): VideoOutcome => ({
+  status: "failed",
+  error,
+  kind,
+  attempts,
+});
 
 /** Writes <id>.info.json, picks one caption track, then downloads only that track from the saved info. */
 export const fetchVideo = async (id: string, ctx: VideoContext): Promise<VideoOutcome> => {
@@ -53,7 +58,7 @@ export const fetchVideo = async (id: string, ctx: VideoContext): Promise<VideoOu
       id,
     ),
   );
-  if (!infoRun.result.ok) return failed(infoRun.result.error.message, infoRun.attempts);
+  if (!infoRun.result.ok) return failed(infoRun.result.error.message, infoRun.attempts, infoRun.result.error.kind);
 
   const info = await readJsonAs(ctx.paths.info(id), Info);
   if (!info.ok) return failed(info.error, infoRun.attempts);
@@ -86,7 +91,7 @@ export const fetchVideo = async (id: string, ctx: VideoContext): Promise<VideoOu
   );
   // One try of the video plus every retry of either call.
   const attempts = infoRun.attempts + subsRun.attempts - 1;
-  if (!subsRun.result.ok) return failed(subsRun.result.error.message, attempts);
+  if (!subsRun.result.ok) return failed(subsRun.result.error.message, attempts, subsRun.result.error.kind);
   if (!existsSync(ctx.paths.subs(id, track.key))) {
     return failed(`yt-dlp did not write the ${track.key} captions`, attempts);
   }

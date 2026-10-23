@@ -14,7 +14,7 @@ const toParagraph = (segments: readonly Segment[]): Paragraph => ({
   text: segments.map((segment) => segment.text).join(" "),
 });
 
-/** Breaks at a sentence end once a paragraph spans minMs, and always before it would pass maxMs. */
+/** Breaks at every speaker change, at a sentence end once a paragraph spans minMs, and before it passes maxMs. */
 export const toParagraphs = (
   segments: readonly Segment[],
   limits: ParagraphLimits = DEFAULT_LIMITS,
@@ -23,7 +23,7 @@ export const toParagraphs = (
   let current: Segment[] = [];
   for (const segment of segments) {
     const startMs = current[0]?.startMs;
-    if (startMs !== undefined && segment.startMs - startMs >= limits.maxMs) {
+    if (startMs !== undefined && (segment.speakerChange || segment.startMs - startMs >= limits.maxMs)) {
       paragraphs.push(toParagraph(current));
       current = [];
     }

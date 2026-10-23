@@ -62,7 +62,8 @@ export const Json3 = z.looseObject({
 
 export type Json3 = z.infer<typeof Json3>;
 
-export type Segment = { startMs: number; durMs: number; text: string };
+/** `speakerChange` is true when a different person starts speaking at this segment. */
+export type Segment = { startMs: number; durMs: number; text: string; speakerChange: boolean };
 
 export type CaptionKind = "manual" | "auto";
 
