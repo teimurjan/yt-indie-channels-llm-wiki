@@ -1,0 +1,350 @@
+---
+type: index
+title: Businesses index
+updated: 2026-10-26
+---
+
+# Businesses index
+
+- [16Personalities](businesses/16personalities.md) — 16Personalities is a personality test site that gives each user a four-letter type.
+- [3AK](businesses/3ak.md) — 3AK is an all-in-one track and field app built by two college sprinters with no coding experience, using the AI app builder Rork.
+- [AbMaxx](businesses/abmaxx.md) — AbMaxx is a consumer fitness app that gives users a custom abs plan and an "ab scan".
+- [AI Carousels](businesses/ai-carousels.md) — AI Carousels is a freemium SaaS tool that generates social media carousels with AI, run by one founder.
+- [AI Crea](businesses/ai-crea.md) — AI Crea is an AI home-staging tool: a user uploads a room photo, picks a style, and gets a redesigned room in seconds.
+- [Airbuds](businesses/airbuds.md) — Airbuds is a widget app that shows what your friends listen to and sends a weekly music recap.
+- [Algrow](businesses/algrow.md) — Algrow is a SaaS that helps creators find and copy viral short-form video formats and then generate videos with AI.
+- [Alia](businesses/alia.md) — Alia is a bootstrapped SaaS that sells email-capture pop-ups to e-commerce brands.
+- [AngelMatch](businesses/angelmatch.md) — AngelMatch is a paid database of about 125,000 angel investors and VCs for founders who raise money (source, 1:38).
+- [App Alchemy](businesses/app-alchemy.md) — App Alchemy is an AI tool that makes mobile app designs, "like Cursor but for designing mobile apps".
+- [App Masters](businesses/app-masters.md) — App Masters is Steve Young's company.
+- [Apple](businesses/apple.md) — This page collects what the sources say about Apple, mostly as a design reference for founders and designers.
+- [Arise](businesses/arise.md) — Arise is a fitness app themed on the anime Solo Leveling, built to give fans "the system" in real life.
+- [Arvow](businesses/arvow.md) — Arvow is an AI SEO writer for agencies and business owners.
+- [Assembly](businesses/assembly.md) — Assembly is Hunter Hammonds's studio that builds creator-led B2B productized services, with a plan of 12 businesses in 12 months.
+- [Athlete's Thread](businesses/athletes-thread.md) — Athlete's Thread is a Shopify brand that sells licensed merchandise co-branded with colleges and student athletes.
+- [Atlas](businesses/atlas.md) — Atlas (helloatlas.io) is a SaaS app that former YouTuber Sebastian Ghiorghiu built without promoting it to his audience (source, 1:22).
+- [Attention Design](businesses/attention-design.md) — Attention Design is an inspiration library for YouTube creators, one of two products in Gaurabh Mathure's Starter Story Challenge.
+- [AudioPen](businesses/audiopen.md) — AudioPen is an app that turns a voice note into clean text in a chosen style.
+- [Avenue](businesses/avenue.md) — Avenue is an embeddable booking and inquiry widget for trades businesses in Australia, such as electricians and mechanics.
+- [Bags](businesses/bags.md) — Bags is a crypto trading app with a token launchpad, built by Hunter Isaacson, the maker of NGL.
+- [Baked Design](businesses/baked-design.md) — Baked Design is a monthly design subscription agency co-founded by Nick Buzz and Alex.
+- [Bank Statement Converter](businesses/bank-statement-converter.md) — Bank Statement Converter is a website that turns PDF bank statements into spreadsheets.
+- [Barn2](businesses/barn2.md) — Barn2 is a remote team that sells a portfolio of 19 WordPress and WooCommerce plugins plus one Shopify app.
+- [Bathe the Baby](businesses/bathe-the-baby.md) — Bathe the Baby (first called Bake the Baby) is a Roblox game made by Ian over a college winter break.
+- [Bible Buddy](businesses/bible-buddy.md) — Bible Buddy is an AI therapist app for Christians that Lotts Ezeike built and sold.
+- [Blinkist](businesses/blinkist.md) — Blinkist is a subscription app whose paywall trial timeline other app founders copy.
+- [BlogToPin](businesses/blog-to-pin.md) — BlogToPin is a SaaS that scans a website, then creates and schedules Pinterest pins with AI.
+- [Bloom](businesses/bloom.md) — Bloom is a Gen Z "learn to invest" app that mixes Robinhood-style investing with Duolingo-style lessons.
+- [Blue Throne](businesses/blue-throne.md) — Blue Throne is a firm that buys consumer apps for seven and eight figures and scales them.
+- [Boost App Social](businesses/boost-app-social.md) — Boost App Social is an iOS app for Instagram growth that reached $100K MRR almost only on Meta ads, then sold for seven figures.
+- [Boot.dev](businesses/boot-dev.md) — Boot.dev is a gamified, interactive platform for learning back-end development.
+- [Brawler](businesses/brawler.md) — Brawler is an AI boxing app, one of three AI sports apps run by George.
+- [Bro](businesses/bro.md) — Bro is an AI companion app that floats over your texts and lock screen.
+- [Built With Science](businesses/built-with-science.md) — Built With Science is a fitness app.
+- [BulkMockup](businesses/bulkmockup.md) — BulkMockup is a Photoshop plugin that makes print-on-demand mockups in bulk.
+- [Busuu](businesses/busuu.md) — This page collects what the sources say about Busuu, a language-learning subscription app.
+- [Cal AI](businesses/cal-ai.md) — Cal AI is an AI calorie-tracking iPhone app: the user takes a photo of food and gets calories and macros.
+- [Cal Buddy](businesses/cal-buddy.md) — Cal Buddy is an AI calorie tracker in Hebrew for the Israeli market, a local copy of Cal AI.
+- [Capacity](businesses/capacity.md) — Capacity is a new AI coding tool by Samuel Rondot, the third app in his SaaS portfolio.
+- [CardStock](businesses/cardstock.md) — CardStock is an iPhone app that scans sports cards with the camera and shows their market value.
+- [Career Hound](businesses/career-hound.md) — Career Hound is a job board that scrapes jobs straight from company websites and grows through cheap, repeatable UGC videos.
+- [Carrot Weather](businesses/carrot-weather.md) — Carrot Weather is a paid iPhone weather app with a sarcastic character.
+- [Castmagic](businesses/castmagic.md) — Castmagic is a bootstrapped AI tool that turns podcasts, videos and other media into written content.
+- [Cat on Chair](businesses/cat-on-chair.md) — Cat on Chair is an iOS Pomodoro timer in which a cat sits on your chair while you focus and leaves a gift when…
+- [Celebs](businesses/celebs.md) — Celebs is a celebrity lookalike app owned by the app studio Social.
+- [Charlie Chang Media](businesses/charlie-chang-media.md) — Charlie Chang Media is Charlie Chang's group of six personal finance and business YouTube channels.
+- [Chart Detector AI](businesses/chart-detector-ai.md) — Chart Detector AI is a mobile app that analyzes a photo of a stock or crypto chart with AI.
+- [ChartDB](businesses/chartdb.md) — ChartDB is an open-source tool that turns a database schema into an interactive diagram.
+- [Chatbase](businesses/chatbase.md) — Chatbase lets a business build a ChatGPT-style chatbot trained on its own data.
+- [Clean Eats](businesses/clean-eats.md) — Clean Eats is a food barcode scanner app that Kelechi built and sold within about 4 months.
+- [Clear 30](businesses/clear-30.md) — Clear 30 is a science-based app program that helps people quit or cut down on weed.
+- [Clipt](businesses/clipt.md) — Clipt is an animation and video editing agency that matches top animators with companies and funds its founders' own content brand.
+- [Clover Labs](businesses/clover-labs.md) — Clover Labs is a Canadian organic distribution company that clones winning short-form content across many accounts and countries for app clients.
+- [Coconote](businesses/coconote.md) — This page collects what the sources say about Coconote, an AI note-taker for college students that Quizlet bought.
+- [CodeGuide](businesses/codeguide.md) — CodeGuide (codeguide.dev) is a SaaS tool that writes detailed project documentation for AI coding tools such as Cursor, so the models hallucinate less.
+- [Coherence](businesses/coherence.md) — Coherence is a breathwork app that helps users regulate the nervous system.
+- [College Thread](businesses/college-thread.md) — This page collects what the sources say about College Thread, one of four custom apparel brands run by Karthik Shanadi.
+- [Conch AI](businesses/conch-ai.md) — Conch AI is an AI writing tool that bypassed AI detection, grew on organic short-form video, and was sold in early 2025.
+- [Consumer Club](businesses/consumer-club.md) — Consumer Club is a Discord community where app founders share distribution tactics, mostly for organic TikTok (source, 0:02:51).
+- [Contra](businesses/contra.md) — Contra is a professional network for freelance creative work.
+- [Copia](businesses/copia.md) — Copia is a manifesting and self-help app that turns a viral ChatGPT "day in my dream life" prompt into an app with affirmations.
+- [Copy MBA](businesses/copy-mba.md) — Copy MBA is a copywriting education program built by Cardinal Mason after his freelance and agency work.
+- [Copyblogger](businesses/copyblogger.md) — Copyblogger is a long-running publication that teaches internet writing, newsletters, SEO and LinkedIn writing.
+- [Creator Buddy](businesses/creator-buddy.md) — Creator Buddy is an AI app that pulls a user's posts from X and coaches them on better content.
+- [Creator Hunter](businesses/creator-hunter.md) — Creator Hunter is a SaaS database that matches startups with influencers.
+- [Creator's Companion](businesses/creators-companion.md) — Creator's Companion is a premium Notion template for YouTube creators, sold by Thomas Frank.
+- [Curator.io](businesses/curator-io.md) — Curator.io is a social media aggregator for websites and events, and one of the apps in Mike Hill's bootstrapped B2B SaaS portfolio.
+- [Curiosity Quench](businesses/curiosity-quench.md) — Curiosity Quench is a mobile app that gives people hobby action plans so they scroll less.
+- [Cursor Directory](businesses/cursor-directory.md) — This page collects what the sources say about Cursor Directory, a website that collects Cursor rules and MCP servers.
+- [CutCoach](businesses/cutcoach.md) — CutCoach is an iOS app that gives combat sport athletes a plan to cut weight before a weigh-in.
+- [DaBaby game](businesses/dababy-game.md) — The DaBaby game is a meme mobile game about the DaBaby "car head" meme.
+- [Danny Miranda Podcast](businesses/danny-miranda-podcast.md) — The Danny Miranda Podcast is an interview show that Danny Miranda started in his parents' basement and grew to guests such as Gary Vaynerchuk.
+- [Data Fetcher](businesses/data-fetcher.md) — Data Fetcher is a solo-run Airtable extension that pulls data from any API into Airtable on a schedule.
+- [Day One](businesses/day-one.md) — Day One is a long-lived indie journaling app that beats Apple's free journal apps on craft.
+- [Debloat AI](businesses/debloat-ai.md) — Debloat AI is an app that scans a user's face and shows a "bloat score".
+- [DesignJoy](businesses/designjoy.md) — DesignJoy is Brett Williams's one-person design studio that sells unlimited design requests as a monthly subscription.
+- [Dia](businesses/dia.md) — Dia is an AI browser from The Browser Company.
+- [Done](businesses/done.md) — Done is a habit-tracking app in Ryan Thorp's acquired app portfolio.
+- [Doof](businesses/doof.md) — Doof is a food diary app by solo founder Jack Friks (source, 19:22).
+- [Double Speed](businesses/double-speed.md) — Double Speed is an a16z Speedrun startup that makes AI slideshow and hook-and-demo videos.
+- [Draft.dev](businesses/draft-dev.md) — Draft.dev is a productized service that writes technical content for companies that sell to software developers.
+- [Drop Magic](businesses/drop-magic.md) — Drop Magic is an AI store builder for beginner ecommerce sellers, co-founded with a YouTube creator.
+- [DuckMath](businesses/duckmath.md) — DuckMath is an "unblocked games" website paid by Google AdSense that Maddox grew with TikTok and sold for $120K.
+- [Duolingo](businesses/duolingo.md) — Duolingo is a language-learning app.
+- [Early](businesses/erly.md) — Early (erly.co) is an iPhone alarm app that turns off only after you do push-ups on camera.
+- [Earni.fi](businesses/earnifi.md) — Earni.fi is a web app that shows Ethereum users the airdrops they did not claim.
+- [Echos](businesses/echos.md) — Echos is Clover Labs' tool that clones competitor slideshows and videos and posts variants across many accounts.
+- [Elephas](businesses/elephas.md) — Elephas is an AI assistant for Mac.
+- [Epic Gardening](businesses/epic-gardening.md) — Epic Gardening is a gardening media brand that grew into a product company selling gardening goods.
+- [Escape the Toilet](businesses/escape-the-toilet.md) — Escape the Toilet was a mobile game tied to the Skibidi Toilet meme, launched by Rafael Kramer's influencer game company.
+- [Evidation](businesses/evidation.md) — This page collects what the sources say about Evidation, a health tracking app that runs on the watch you already own.
+- [Evo Marketing](businesses/evo-marketing.md) — Evo Marketing is a UGC agency that runs short-form video campaigns for apps and consumer brands.
+- [Faceless Video](businesses/faceless-video.md) — Faceless Video is a SaaS that runs faceless social media channels on autopilot: the user gives a topic, and the app writes, makes and…
+- [FarmVille](businesses/farmville.md) — FarmVille is a Zynga farming game that launched on Facebook in 2009.
+- [Fastlane](businesses/fastlane.md) — Fastlane is an AI tool that makes short-form content for solo founders who build apps and SaaS (source, 1:03).
+- [FE International](businesses/fe-international.md) — FE International is an M&A firm that brokers the sale of online businesses.
+- [Feather](businesses/feather.md) — Feather is a SaaS tool that turns Notion pages into a blog.
+- [Fight AI](businesses/fight-ai.md) — Fight AI is an MMA video-analysis app and the first app George built before his wrestling and boxing apps.
+- [Figma](businesses/figma.md) — Figma is a collaborative design tool for UI, web and app design.
+- [Fin](businesses/fin.md) — Fin is Intercom's AI customer support agent, priced per resolved ticket.
+- [FinvsFin](businesses/finvsfin.md) — FinvsFin is a product review site that compares health and wellness products, mostly telehealth brands, and earns affiliate commissions.
+- [Fitted](businesses/fitted.md) — Fitted is an AI closet app.
+- [Flame](businesses/flame.md) — Flame is a couples app that gives partners one question a day to answer together, plus an AI relationship coach.
+- [Flo](businesses/flo.md) — Flo is the name of two different products in the sources: Flo Health, a period-tracking app, and Flo, an AI analytics and agent platform…
+- [Floga](businesses/floga.md) — Floga is a mobile app for yoga teachers and practitioners that pre-launched with a lifetime deal and made over $120K in 24 hours.
+- [Fluke](businesses/fluke.md) — Fluke is a no-code product tour tool for SaaS, part of Mike Hill's bootstrapped app portfolio.
+- [FollowBuddy](businesses/followbuddy.md) — FollowBuddy is a subscription app that shows who unfollowed you on Instagram, grown only through organic search videos.
+- [Forest](businesses/forest.md) — Forest is a long-lived focus app.
+- [Formula Bot](businesses/formula-bot.md) — Formula Bot is a no-code AI tool, first called Excel Formula Bot, that writes spreadsheet formulas and analyzes data in plain language.
+- [Framer](businesses/framer.md) — Framer is a no-code web design tool that lets designers build and publish live websites in one place.
+- [Frill](businesses/frill.md) — Frill is a B2B SaaS tool for customer feedback, roadmaps and product announcements, part of Mike Hill's app portfolio.
+- [Generalist World](businesses/generalist-world.md) — Generalist World is a newsletter and community brand for people who do many different things at work, run from a small Scottish island.
+- [GeoSports](businesses/geosports.md) — GeoSports is a daily sports geography web game that Frank Smith built with Claude in about 8 hours.
+- [Glam Up](businesses/glam-up.md) — Glam Up is a glow-up and makeup app for women, built by Nicole and her co-founder Aaron as "Umax for women".
+- [Glaze](businesses/glaze.md) — Glaze is a website that Tim Gabe reviews as a reference for UI and UX design.
+- [Glowly](businesses/glowly.md) — Glowly is a looksmaxing face-scan iOS app that designer Will Baker grows with AI-made TikTok ads.
+- [GlowUp](businesses/glowup.md) — GlowUp is an AI app that lets women try makeup looks on a photo of themselves.
+- [Go Polar](businesses/go-polar.md) — Go Polar is an iOS app that tracks cold plunge and sauna sessions.
+- [Go Tall](businesses/go-tall.md) — Go Tall is a height prediction app for teenagers on iOS and Android (source, 1:06).
+- [Gojiberry AI](businesses/gojiberry-ai.md) — Gojiberry AI is a B2B tool that finds high-intent leads on LinkedIn and runs AI-personalized outreach to them.
+- [Gravl](businesses/gravl.md) — Gravl is an AI gym workout app that pairs Fitbod-style UX with a better workout engine.
+- [Greek House](businesses/greek-house.md) — Greek House is a custom apparel business for fraternities and sororities and the first of four related apparel brands.
+- [HabitKit](businesses/habitkit.md) — HabitKit is a simple habit tracker for iOS and Android, built by one developer in Germany.
+- [Halo AI](businesses/halo-ai.md) — Halo AI is an AI photo editor built on the Gemini API that grew to $300K MRR in 45 days through mass UGC.
+- [Harpagia](businesses/harpagia.md) — Harpagia is a free-to-play, text-based idle RPG for iOS and Android, aimed at fans of incremental games like RuneScape.
+- [Headspace](businesses/headspace.md) — Headspace is a meditation subscription app.
+- [Hide or Die](businesses/hide-or-die.md) — Hide or Die is a Roblox game by Cole, one of the top 50 Roblox developers.
+- [Hinge](businesses/hinge.md) — Hinge is a dating app.
+- [Hiro Analytics](businesses/hiro-analytics.md) — Hiro Analytics is a reporting and automation platform for email and SMS marketing agencies.
+- [HubSpot](businesses/hubspot.md) — HubSpot is a public software company that sells CRM and marketing tools.
+- [Hush Blankets](businesses/hush-blankets.md) — Hush Blankets is a Toronto weighted and cooling blanket brand that went from $0 to $48M in sales in 48 months and was acquired…
+- [Indexsy](businesses/indexsy.md) — Indexsy is an SEO agency that Jacky Chou started in 2015.
+- [Infuspy](businesses/infuspy.md) — Infuspy was a bootstrapped Instagram and Snapchat influencer finder for ecommerce sellers, now shut down.
+- [Intercom](businesses/intercom.md) — Intercom is a customer support software company.
+- [InvestorHunt](businesses/investorhunt.md) — InvestorHunt is an investor database for founders, one of three database products run by Rashid Khasanov.
+- [Jenni AI](businesses/jenni-ai.md) — Jenni AI is an AI research and writing tool for students and researchers, grown mostly with short-form video.
+- [Jitter](businesses/jitter.md) — Jitter is a motion design tool whose minimal, conversion-focused website Tim Gabe reviews for UI inspiration.
+- [Journable](businesses/journable.md) — Journable is an AI calorie counter app that earns most of its revenue on Android.
+- [JournalistHunt](businesses/journalisthunt.md) — JournalistHunt is a paid database of about 200,000 journalists, one of three database products run by Rashid Khasanov.
+- [Jungle](businesses/jungle.md) — Jungle is an AI study app that turns PDFs, slides and videos into quizzes and flashcards, with a game layer.
+- [Juno](businesses/juno.md) — Juno is a digital signage SaaS for cafes, gyms, schools and shops, part of Mike Hill's bootstrapped app portfolio.
+- [Kaching Bundles](businesses/kaching-bundles.md) — Kaching Bundles is a Shopify app that helps merchants raise average order value with bundle discounts, and the first of a family of Kaching…
+- [Kleo](businesses/kleo.md) — Kleo is an AI ghostwriter for founders who post on LinkedIn.
+- [Kortex](businesses/kortex.md) — Kortex is a second-brain note-taking tool by Dan Koe, with an AI assistant that answers from your own notes.
+- [Ladder](businesses/ladder.md) — Ladder is a strength-training app where each team does the same workout every day.
+- [Lancer](businesses/lancer.md) — Lancer is an AI agent that finds, qualifies and bids on Upwork jobs for freelancers and agencies.
+- [Late](businesses/late.md) — Late is a social media API for developers that wraps the official platform APIs into one, grown only through Google.
+- [Late Checkout](businesses/late-checkout.md) — Late Checkout is Greg Isenberg's holding company of six community-led businesses.
+- [Launch Fast](businesses/launchfast.md) — Launch Fast is an AI product research tool for Amazon sellers, launched through a coaching company partner.
+- [LCA](businesses/lca.md) — LCA is the innovation agency inside Greg Isenberg's holding company Late Checkout.
+- [Legacy X](businesses/legacy-x.md) — Legacy X is an Amazon seller coaching company that took equity in Launch Fast and launched it to its students.
+- [lemlist](businesses/lemlist.md) — lemlist is a bootstrapped cold email tool that won a crowded market on personalization.
+- [Letterly](businesses/letterly.md) — Letterly is a paid mobile app that turns speech into well-written text, built by Anton.
+- [Life Reset](businesses/life-reset.md) — Life Reset is a habit tracker app wrapped in a game, with characters, quests and boss fights.
+- [Liinks](businesses/liinks.md) — Liinks is a link-in-bio and simple website tool, built as a nicer-looking Linktree alternative.
+- [Listing Bot](businesses/listing-bot.md) — Listing Bot is a tool in John Rush's product portfolio that submits products to directories.
+- [ListKit](businesses/listkit.md) — ListKit is a B2B SaaS that sells verified lead lists for cold email.
+- [Live Tourney](businesses/live-tourney.md) — Live Tourney is a web app that golf courses use to run tournaments with live scoring and leaderboards.
+- [Lobby](businesses/lobby.md) — Lobby is a drop-in video hangout app where friends join calls together.
+- [Local Rank](businesses/local-rank.md) — Local Rank is a local SEO SaaS that Jacky Chou built after Google updates wiped out his content site income.
+- [Locked](businesses/locked.md) — Locked is a gamified habit and focus app built by 14-year-old Evan Yadegari.
+- [Lovable](businesses/lovable.md) — Lovable is an AI app builder: you describe a web app in chat, and it writes the full-stack code.
+- [Lovely](businesses/lovely.md) — Lovely is a couples app by solo founder Jack Friks, with a love-note widget, that got 100K downloads in 10 weeks.
+- [MacroFactor](businesses/macrofactor.md) — MacroFactor is a macro and calorie tracking app built to remove shame from tracking.
+- [Magai](businesses/magai.md) — This page collects what the sources say about Magai, a paid chat app that gives access to many AI models in one subscription.
+- [Magic Music](businesses/magic-music.md) — Magic Music is an AI song app built on Suno by Lotts Ezeike, one of the four apps he built and sold.
+- [Mail Lead](businesses/mail-lead.md) — Mail Lead is a simple cold email tool.
+- [MakeLogo.ai](businesses/makelogo-ai.md) — MakeLogo.ai is an AI logo generator that Nico Jeannen built and sold through Acquire.com.
+- [Marketing Examined](businesses/marketing-examined.md) — Marketing Examined is a marketing newsletter by Alex Garcia.
+- [Massive](businesses/massive.md) — Massive is a "Tinder for jobs" web and mobile app that matches users to jobs and fills out applications with AI.
+- [Maxed AI](businesses/maxed-ai.md) — This page collects what the sources say about Maxed AI, an all-in-one lifting and health coach app.
+- [Midjourney](businesses/midjourney.md) — This page collects what the sources say about Midjourney, the AI image generator.
+- [Minea](businesses/minea.md) — Minea is a bootstrapped product research tool for dropshippers, built by Loïc Berthelot.
+- [Miro](businesses/miro.md) — Miro is an online whiteboard tool for teams.
+- [Mobbin](businesses/mobbin.md) — Mobbin is a searchable library of screenshots and flows from real apps.
+- [Mojo](businesses/mojo.md) — Mojo is a video and story editor app.
+- [Momego](businesses/momego.md) — Momego is a live bus and train tracking app for over 160 cities, run by one person.
+- [MonAI](businesses/monai.md) — MonAI is a minimal iPhone expense tracker with voice entry and Apple Pay automation, grown by one creator partner.
+- [Moonly](businesses/moonly.md) — Moonly is a subscription app that Tim Gabe uses as a free-trial A/B test case.
+- [Natural Write](businesses/natural-write.md) — This page collects what the sources say about Natural Write, an AI "humanizer" that rewrites AI text so it passes AI detectors.
+- [Netflix](businesses/netflix.md) — Netflix is a video streaming company.
+- [Neural Frames](businesses/neural-frames.md) — Neural Frames is a bootstrapped AI music video generator for hobby, indie and AI-music creators.
+- [NeuroGum](businesses/neurogum.md) — NeuroGum is a brand that sells focus and energy supplements as gum and mints instead of pills.
+- [NGL](businesses/ngl.md) — NGL is an anonymous messaging app built on Instagram's story link feature.
+- [Noise](businesses/noise.md) — Noise is a creator platform where many people post an app's short-form content and get paid per view.
+- [NomadTable](businesses/nomadtable.md) — NomadTable is a bootstrapped meetup app where solo travelers, expats and nomads create activities and meet people nearby.
+- [NotionForms](businesses/notionforms.md) — NotionForms is a form builder that saves responses into Notion databases.
+- [Oceans](businesses/oceans.md) — Oceans is a bootstrapped offshore staffing company that places full-time executive assistants and operators, mostly in Sri Lanka, inside client teams.
+- [Once](businesses/once.md) — Once is a disposable camera app for events such as weddings and parties: guests get a few shots each and see the shared album…
+- [Optibase](businesses/optibase.md) — Optibase is an A/B testing tool for Webflow sites.
+- [Oura](businesses/oura.md) — Oura makes a smart ring that tracks sleep and body data, sold with a monthly subscription.
+- [Outrank](businesses/outrank.md) — Outrank is an SaaS tool that started as a blog post generator and is becoming an all-in-one SEO tool.
+- [Overlow](businesses/overlow.md) — Overlow is an iOS fitness app with a body scan, run by designer Will Baker alongside his face-scan app Glowly.
+- [Paired](businesses/paired.md) — Paired is an overseas staffing company that YouTuber Charlie Chang started to place remote hires with clients.
+- [Papermark](businesses/papermark.md) — Papermark is an open-source alternative to DocSend for secure document sharing, analytics and data rooms.
+- [Parakeet AI](businesses/parakeet-ai.md) — Parakeet AI is a real-time AI job interview assistant built by Jure Sotošek.
+- [Parakeet Chat](businesses/parakeet-chat.md) — Parakeet Chat is an AI chatbot and messaging service for people in US prisons.
+- [Payout](businesses/payout.md) — Payout is an iOS app that finds class action settlements.
+- [Pckgr](businesses/pckgr.md) — Pckgr is a browser-based B2B tool that deploys apps to Microsoft Intune in one click.
+- [Peloton](businesses/peloton.md) — Peloton is a connected fitness company that sells an exercise bike and a class subscription.
+- [Pep AI](businesses/pep-ai.md) — Pep AI is an iPhone tracker for peptide and GLP-1 users, built by a college student and grown with niche creators.
+- [Phantom](businesses/phantom.md) — Phantom is a crypto wallet app that Tim Gabe uses as a case study in emotional, motion-led design.
+- [Photogenic](businesses/photogenic.md) — Photogenic is an AI photo app that grew through one hired UGC creator.
+- [Pingo](businesses/pingo.md) — Pingo is an AI voice companion app for speaking practice in about 20 languages, known for viral videos where the AI roasts learners.
+- [Post Bridge](businesses/post-bridge.md) — Post Bridge is a social media scheduling tool built by solo founder Jack Friks to cross-post his own app videos.
+- [Posted](businesses/posted.md) — Posted is Steven Cravotta's creator marketplace: creators submit videos to a brief, and the brand pays only for the ones it approves.
+- [Postiz](businesses/postiz.md) — Postiz is an open-source social media scheduler.
+- [PostSyncer](businesses/postsyncer.md) — PostSyncer is a social media tool that posts to 10 platforms and is one of the SaaS products in Tibo's portfolio.
+- [Posture AI](businesses/posture-ai.md) — Posture AI is an iOS app that scans the posture of desk workers, made by The Wellness Company studio.
+- [Prayer Lock](businesses/prayer-lock.md) — Prayer Lock is an iOS app that blocks your phone until you pray.
+- [PrayScreen](businesses/prayscreen.md) — PrayScreen is a screen-time app for Christians that makes you pray before it unlocks your other apps.
+- [Pregnancy+](businesses/pregnancy-plus.md) — Pregnancy+ is a pregnancy tracking app that Tim Gabe uses as a paywall testing case study.
+- [Premium Ghostwriting Academy](businesses/premium-ghostwriting-academy.md) — Premium Ghostwriting Academy is an evergreen group coaching program for freelance ghostwriters, part of Dickie Bush's writing business portfolio.
+- [Profit AI](businesses/profit-ai.md) — Profit AI is a Shopify app for profit analytics and AI marketing automation, built from a consultant's spreadsheets.
+- [Prop GPT](businesses/prop-gpt.md) — Prop GPT is a sports betting analytics app that uses a machine learning model to score picks.
+- [Puff Count](businesses/puff-count.md) — Puff Count is a quit-vaping iPhone app by Steven Cravotta.
+- [Pushscroll](businesses/pushscroll.md) — Pushscroll is a mobile app that blocks social media until the user does push-ups, squats or a plank.
+- [Qalo](businesses/qalo.md) — Qalo is a silicone wedding ring brand for people who are active.
+- [Questgen](businesses/questgen.md) — Questgen (Questgen.ai) is an AI quiz generator built by Ramsri Goutham as a side project.
+- [Rabbit Holes AI](businesses/rabbit-holes-ai.md) — Rabbit Holes AI, now called Canvas Mode, is a desktop canvas for AI chats where users branch a conversation into new nodes.
+- [Ramp](businesses/ramp.md) — Ramp is a corporate spend management company that Tim Gabe uses as an example of retention through a learned model of the customer.
+- [Raycast](businesses/raycast.md) — Raycast is a keyboard launcher for Mac that Tim Gabe uses as a case study in design-led growth.
+- [Recovery Local](businesses/recovery-local.md) — Recovery Local is Tim Stoddart's group of addiction recovery websites, such as sober.com and detox.com, inside his holding company.
+- [ReelShort](businesses/reelshort.md) — ReelShort is a Chinese short-drama app with 60-second vertical episodes.
+- [Reflectly](businesses/reflectly.md) — Reflectly is a journaling app that became the base of Ryan Thorp's portfolio of 30 to 35 acquired consumer apps.
+- [Resume Maker Online](businesses/resume-maker-online.md) — Resume Maker Online is a freemium resume builder run by one person.
+- [Revid](businesses/revid-ai.md) — Revid is an AI tool that turns video or text into engaging short videos.
+- [Revolut](businesses/revolut.md) — This page collects what the sources say about Revolut, the finance app, as an example of emotional design.
+- [Rizz GPT](businesses/rizz-gpt.md) — Rizz GPT is an AI dating app for iPhone, the first hit app of Blake Anderson.
+- [Robinhood](businesses/robinhood.md) — Robinhood is a stock and crypto trading app.
+- [Roblox](businesses/roblox.md) — Roblox is a game platform where independent developers build games and earn from in-game purchases.
+- [Rootd](businesses/rootd.md) — Rootd is an iPhone app for panic attack and anxiety relief.
+- [Runafy](businesses/runafy.md) — Runafy is a ranked running app.
+- [Savewise](businesses/savewise.md) — Savewise is a tool that helps people stack credit card points, airline miles and cashback on online purchases.
+- [Savvy Nomad](businesses/savvy-nomad.md) — Savvy Nomad helps US citizens who live abroad change their state domicile so they stop paying state taxes.
+- [Scanemon](businesses/scanemon.md) — Scanemon is a Pokémon card scanner app that shows a card's market value.
+- [Scrape Creators](businesses/scrape-creators.md) — Scrape Creators is a credit-based API that scrapes public data from social media platforms and ad libraries.
+- [Screens Design](businesses/screens-design.md) — Screens Design is a library of mobile app onboarding flows and paywalls, run by Alex, the co-founder who sold Boost App Social.
+- [ScreenshotOne](businesses/screenshotone.md) — ScreenshotOne is an API that automates website screenshots for developers.
+- [SEO Bot](businesses/seo-bot.md) — SEO Bot is an AI SEO tool in John Rush's portfolio of about 26 products for founders.
+- [Series](businesses/series.md) — Series is an AI social network startup.
+- [Serif](businesses/serif.md) — Serif is an AI email assistant that sorts the inbox and drafts replies in the user's own writing style.
+- [Setter AI](businesses/setter-ai.md) — Setter AI is an AI appointment setter that follows up with leads and qualifies them for sales teams (source, 1:13).
+- [Sheets & Giggles](businesses/sheets-and-giggles.md) — Sheets & Giggles is a direct-to-consumer bedding brand founded by Colin McIntosh.
+- [Sheets Resume](businesses/sheets-resume.md) — This page collects what the sources say about Sheets Resume, an AI resume builder.
+- [Shepherd](businesses/shepherd.md) — Shepherd is a Duolingo-style Bible app launched by Dan Kwon.
+- [Shervin Shares](businesses/shervin-shares.md) — Shervin Shares is a niche YouTube channel about tech, gadgets and fitness that earns mostly from affiliate links in product reviews.
+- [Ship 30 for 30](businesses/ship-30-for-30.md) — Ship 30 for 30 is a paid cohort writing course for beginners, built around a 30-day writing challenge.
+- [ShipFast](businesses/shipfast.md) — ShipFast is a Next.js code boilerplate that Marc Lou sells to developers who want to launch a product fast.
+- [Shipper](businesses/shipper.md) — Shipper is an AI app builder that makes web apps, mobile apps, Chrome extensions and bots for people with no technical skills.
+- [SideShift](businesses/sideshift.md) — SideShift is a marketplace where apps hire UGC creators, often college students, and run creator campaigns.
+- [Signaturely](businesses/signaturely.md) — Signaturely is a simple e-signature tool, built as a DocuSign alternative by Will Cannon.
+- [SiteGPT](businesses/sitegpt.md) — SiteGPT is a solo-built AI chatbot that answers questions about a business's website content.
+- [Sizzle AI](businesses/sizzle-ai.md) — Sizzle AI is an edtech learning app that grows by turning organic short-form videos into paid ads.
+- [Skale](businesses/skale.md) — Skale is a design agency for AI startups that makes websites, launch videos and billboards.
+- [Sketch](businesses/sketch.md) — Sketch is a UI design tool.
+- [Slopes](businesses/slopes.md) — Slopes is a subscription app that appears in one source as an A/B test case about free trials.
+- [Smart Nonsense](businesses/smart-nonsense.md) — This page collects what the sources say about Smart Nonsense, an animated YouTube Shorts brand that an agency funds.
+- [Snag](businesses/snag.md) — Snag is an iOS app that shows free items near the user.
+- [Sober Nation](businesses/sober-nation.md) — This page collects what the sources say about Sober Nation, a recovery blog that grew into an SEO lead generation business.
+- [Social](businesses/social-app-studio.md) — Social is a profitable app studio that buys and grows consumer apps with high-volume AI ads and constant A/B tests.
+- [Social Wizard](businesses/social-wizard.md) — Social Wizard is an AI texting and social-skills app for young men, built by Kelechi.
+- [Softgen](businesses/softgen.md) — Softgen is an early AI coding app that Domenico Gagliardi grew fast and then sold.
+- [SolCard](businesses/solcard.md) — SolCard is a crypto neobank card whose website and app were redesigned by Tim Gabe's studio Zipsnap.
+- [Speak](businesses/speak.md) — Speak is a language app that builds its lessons around speaking out loud, in place of quick tap games.
+- [Spline](businesses/spline.md) — Spline is a browser-based 3D design tool.
+- [Spotify](businesses/spotify.md) — Spotify is a music and podcast streaming app.
+- [Sprout](businesses/sprout.md) — Sprout is a swipe-to-apply job app for college students, a "Tinder for jobs", built by Nicole and Aaron.
+- [Stagetimer](businesses/stagetimer.md) — Stagetimer is a remote-controlled countdown timer for live events and video productions.
+- [Starcrossed](businesses/starcrossed.md) — Starcrossed is a soulmate prediction app.
+- [Starter Story](businesses/starter-story.md) — Starter Story is Pat Walls' media business of founder case studies and interviews, sold to HubSpot in 2026.
+- [StealthGPT](businesses/stealthgpt.md) — This page collects what the sources say about StealthGPT, a web app that writes AI text that AI detectors do not flag.
+- [Stella](businesses/stella.md) — Stella is an AI manifestation app that makes custom visualizations in the voice of your future self and gives daily custom affirmations.
+- [Stoppr](businesses/stoppr.md) — Stoppr is an iOS app that helps Gen Z women stop sugar cravings, built as a screen-for-screen clone of Quittr.
+- [Storyarb](businesses/storyarb.md) — Storyarb is a ghostwriting agency for B2B executives on Twitter and LinkedIn, and the first business in Alex Lieberman's personal holding company.
+- [StoryShort](businesses/storyshort.md) — StoryShort is an AI faceless video generator for TikTok and YouTube, one of three SaaS products run by Samuel Rondot.
+- [Strava](businesses/strava.md) — Strava is a social fitness tracking app for runners and cyclists, often cited as the model for social retention and local competition.
+- [Strides](businesses/strides.md) — Strides is a minimal product website that Tim Gabe reviews as a UI/UX example; the captions also spell it "Stritz", so the name is…
+- [Stronger](businesses/stronger.md) — Stronger is a bootstrapped, gamified workout tracker from Northern Ireland that grows almost entirely on organic TikTok and Instagram.
+- [StudyFetch](businesses/studyfetch.md) — StudyFetch is an AI study platform for students that grew on organic short-form video and a large creator program.
+- [Stuzzi](businesses/stuzzi.md) — Stuzzi is an SEO lead generation agency for addiction treatment centers and other clients.
+- [Subscribr](businesses/subscribr.md) — Subscribr is an AI scriptwriting tool for YouTube creators that pre-sold $20,000 of lifetime licenses before the product existed.
+- [Sunflower](businesses/sunflower.md) — Sunflower is an app that helps people quit alcohol, cannabis, hard drugs or gambling.
+- [SunSeek](businesses/sunseek.md) — SunSeek is an iOS app that tracks morning light and vitamin D, part of The Wellness Company app studio.
+- [Supademo](businesses/supademo.md) — This page collects what the sources say about Supademo, an AI tool that makes interactive product demos.
+- [SuperGrow](businesses/supergrow.md) — SuperGrow is an AI tool that helps professionals write LinkedIn posts in their own voice.
+- [Supermeme](businesses/supermeme.md) — Supermeme (Supermeme.ai) is an AI meme generator.
+- [Superpower ChatGPT](businesses/superpower-chatgpt.md) — Superpower ChatGPT is a browser extension that adds features to the ChatGPT interface, built and run alone by Saeed Ezzati.
+- [SuperX](businesses/superx.md) — SuperX is a SaaS tool for growing on X: it finds viral posts and helps users write their own.
+- [Sway AI](businesses/sway-ai.md) — Sway AI is a dating-profile analyzer app.
+- [Swim University](businesses/swim-university.md) — Swim University is a pool and hot tub care education site run by Matt Giovanisci and his family.
+- [Symmetry](businesses/symmetry.md) — Symmetry is a gym tracking app for the Spanish-speaking market in Spain and Mexico.
+- [Sync2Sheets](businesses/sync2sheets.md) — Sync2Sheets is a Google Sheets add-on that syncs Notion databases to Sheets.
+- [Tabs Chocolate](businesses/tabs-chocolate.md) — Tabs Chocolate is a bootstrapped e-commerce brand that sells a "sex chocolate" made with natural libido supplements.
+- [TalkNotes](businesses/talknotes.md) — TalkNotes is an app that turns voice notes into formatted text.
+- [Tangent Growth](businesses/tangent-growth.md) — Tangent Growth is a paywall optimization firm for subscription apps run by Vahe Baghdasaryan.
+- [TaskMagic](businesses/taskmagic.md) — TaskMagic is a browser automation tool for jobs that Zapier cannot reach through APIs.
+- [Tech Lockdown](businesses/tech-lockdown.md) — Tech Lockdown helps adults block websites and apps through a filtered VPN connection.
+- [Tempo](businesses/tempo.md) — Tempo is an unlaunched health app from Presh's studio, The Wellness Company.
+- [The Birdhouse](businesses/the-birdhouse.md) — The Birdhouse is a Twitter (X) ghostwriting agency for coaches, consultants and education companies.
+- [The Browser Company](businesses/the-browser-company.md) — The Browser Company is the maker of the Arc browser, which it dropped to build Dia, an AI browser that answers instead of making…
+- [The Pathless Path](businesses/the-pathless-path.md) — The Pathless Path is a self-published book by Paul Millerd that earns more than half of his income.
+- [The Wellness Company](businesses/the-wellness-company.md) — The Wellness Company is Presh's small studio of health and wellness iPhone apps that all serve one audience.
+- [Thomas Frank Explains](businesses/thomas-frank-explains.md) — Thomas Frank Explains is a niche YouTube channel that teaches only Notion and sells Thomas Frank's Notion templates.
+- [Threadly](businesses/threadly.md) — Threadly makes custom merch for companies, fundraisers and non-profits.
+- [Tiimo](businesses/tiimo.md) — Tiimo is a visual planner app from Copenhagen that first targeted neurodivergent users, such as people with ADHD.
+- [Timeleft](businesses/timeleft.md) — Timeleft is an app that seats you at dinner with five strangers, with no profiles, swiping or planning.
+- [Tinder](businesses/tinder.md) — Tinder is a swipe-based dating app.
+- [ToneAdapt](businesses/toneadapt.md) — ToneAdapt is a web and iOS app for guitarists.
+- [Toxic Traits](businesses/toxic-traits.md) — Toxic Traits is a consumer app that reads personality traits from chat screenshots.
+- [Typeshare](businesses/typeshare.md) — Typeshare is a SaaS tool for online writers, with templates, analytics and hosting.
+- [Uber](businesses/uber.md) — Uber is the ride-hailing company; in this wiki it appears as a design and growth example, not as a founder story.
+- [Ultimate Brain](businesses/ultimate-brain.md) — Ultimate Brain is a premium Notion productivity template that Thomas Frank sells.
+- [Umax](businesses/umax.md) — Umax is an AI looksmaxxing app for men that scores facial structure and gives feedback on appearance.
+- [Undertone](businesses/undertone.md) — Undertone is an app that records therapy sessions and turns them into a recap.
+- [Uneed](businesses/uneed.md) — Uneed is a launch platform for indie products, built as a Product Hunt alternative.
+- [Unicorn Platform](businesses/unicorn-platform.md) — Unicorn Platform is a website builder that John Rush bought in 2022 and uses as the base of his portfolio of founder tools.
+- [UpLead](businesses/uplead.md) — UpLead is a bootstrapped B2B contact-data tool that sells verified emails and phone numbers for sales teams.
+- [useArtemis](businesses/useartemis.md) — useArtemis is a LinkedIn scraping and email-finding tool built by Samuel Rondot.
+- [Vanman](businesses/vanman.md) — Vanman is a San Diego brand that sells handmade natural hygiene products, led by a tallow honey balm and a tooth powder.
+- [Vault Air](businesses/vault-air.md) — Vault Air is an iOS app that stores encrypted files and photos on the device, with no servers and no shared keys.
+- [Vector 3](businesses/vector-3.md) — Vector 3 is an agency that makes trailers and TikTok campaigns for brands that launch on Roblox.
+- [VEED](businesses/veed.md) — VEED is a browser-based video editor from London.
+- [Visualizee](businesses/visualizee.md) — Visualizee is an AI rendering tool that turns sketches and models into realistic renders and videos for architects and interior designers.
+- [Voicy](businesses/voicy.md) — Voicy is a speech-to-text dictation app on OpenAI's Whisper API that found its market in seniors and people with disabilities.
+- [VueMagnet](businesses/vuemagnet.md) — VueMagnet is a QR code and lead-magnet platform for video creators, built by product designer Gaurabh Mathure.
+- [Vugola](businesses/vugola.md) — Vugola is an AI video editing agent that turns long videos into short clips.
+- [Waitly](businesses/waitly.md) — Waitly is a solo-run waitlist and reservations app for restaurants and other businesses with waiting customers.
+- [Webflow](businesses/webflow.md) — Webflow is a visual website builder with a CMS and hosting.
+- [Welltory](businesses/welltory.md) — Welltory is a health app that reads Apple Watch data and shows people what drains their energy and raises their stress.
+- [Whoop](businesses/whoop.md) — Whoop is a wearable health tracker with a subscription.
+- [WiseSam](businesses/wisesam.md) — This page collects what the sources say about WiseSam, a consumer AI agent app from the app studio Social.
+- [Wishlists](businesses/wishlists.md) — Wishlists is a simple mobile app to store wishes and share them with family.
+- [Wrestle AI](businesses/wrestle-ai.md) — Wrestle AI is an iOS app that acts as an AI wrestling coach and analyzes match videos.
+- [Write With AI](businesses/write-with-ai.md) — This page collects what the sources say about Write With AI, a paid newsletter in Dickie Bush's writing portfolio.
+- [Wrumer](businesses/wrumer.md) — Wrumer is a car device that plugs into the OBD2 port and plays fake engine sounds.
+- [Yadaphone](businesses/yadaphone.md) — Yadaphone is a browser dialer for cheap international calls, built as a Skype alternative by Denis Yurchak.
+- [Youform](businesses/youform.md) — Youform is a cheaper Typeform alternative with a generous free plan, run by a solo founder.
+- [YourMove AI](businesses/yourmove-ai.md) — YourMove AI is an AI dating assistant that writes replies, writes and reviews profiles, and makes AI photos.
+- [YouTube](businesses/youtube.md) — This page collects what the sources say about YouTube as a company.
+- [Zipsnap](businesses/zipsnap.md) — Zipsnap is the app and product design agency that Tim Gabe runs.

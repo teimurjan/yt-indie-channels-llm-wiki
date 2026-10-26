@@ -1,0 +1,385 @@
+---
+type: index
+title: Sources index
+updated: 2026-10-26
+---
+
+# Sources index
+
+## starterstory
+
+- [How I Built It: $30K/Month Micro-SaaS](sources/RSlhgyAXsBI.md) — 2026-10-21 · Gus of Starter Story interviews Charlie Clark, a former Squarespace engineer who built Liinks, a link-in-bio and simple website tool.
+- [I Built an App That Makes $2K Per Day](sources/NuYO7DWzlaM.md) — 2026-10-18 · Pat Walls and Gus interview Rasty Turek, a former Google engineer and repeat founder.
+- [I built this app for my dad. Now it makes $18K/month](sources/LrLDsvbdPr0.md) — 2026-10-14 · Kourosh built Voicy, a speech-to-text dictation app that runs on OpenAI's Whisper API.
+- [My First SaaS Project Just Hit $11K/Month](sources/QXxESN94Y6s.md) — 2026-10-11 · Vadim Strizheus is 19 and had no coding experience.
+- [I Make $13K/Month From This Simple App](sources/aLidq3_FwW0.md) — 2026-10-07 · Max Hirsch is a University of Michigan graduate who did finance internships and had never shipped an app.
+- [This crazy simple app makes $50K/month](sources/RypUD_Fuaqw.md) — 2026-10-04 · Lino Leighton is 18 and not technical.
+- [I Built a $30K/Month Business From a Remote Island (How I Work)](sources/ICTRNFIdZvc.md) — 2026-09-30 · Milly Tamati founded Generalist World, a brand for people who do many different things and do not fit into one box at work.
+- [I built this website in 8 hours with Claude. Now it makes $40K/month](sources/s9aLA4IOSZE.md) — 2026-09-27 · Frank Smith is a sports short-form creator with over 4M followers.
+- [This Simple Widget Makes $50K/Month](sources/mr4YV-9MY0Q.md) — 2026-09-20 · Tom Holliday and his brother built Avenue, an embeddable booking and inquiry widget for trades such as electricians and mechanics in Australia.
+- [How I Work: $140K/Month App Developer](sources/0sO2OSN3jZw.md) — 2026-09-16 · Jay was a software engineer at Amazon.
+- [This app replaced my 9-5 ($155K/year)](sources/axH1e2cZSrw.md) — 2026-09-13 · Ken (Kenneth Law, per his LinkedIn handle) spent 12 years in big tech, last as an engineering manager at Meta.
+- [How I Built This $160K/Month Gym App](sources/OV09yPLf8BI.md) — 2026-09-09 · Mauro Botanes, 22, built Symmetry, a gym tracking app for the Spanish-speaking market in Spain and Mexico.
+- [I make $25K/month from one simple website](sources/xEoLsAQFnOY.md) — 2026-09-06 · Gus of Starter Story interviews Roman, a non-technical founder (X: @rlakhnyuk).
+- [I was stuck at $100 for 2 years until I made one change. Now my app makes $10K/month](sources/TUN8Y8__QGU.md) — 2026-09-02 · Pat Walls interviews Piotr, a Polish tech lead who built Visualizee on nights and weekends.
+- [How This SaaS Hit $69K/Month In Just 2 Months](sources/BA_fC95p43c.md) — 2026-08-30 · Gaurav, from Australia, built Fastlane with co-founder Joe.
+- [I make $32K/month from 3 simple, boring websites](sources/5-G9WHwQMwQ.md) — 2026-08-23 · Rashid Khasanov runs three bootstrapped database products: AngelMatch, InvestorHunt and JournalistHunt.
+- [He built 100 apps and made $0. Can he fix it in 30 days?](sources/AoE1yX9ogCM.md) — 2026-08-22 · This is episode one of the Starter Story Challenge.
+- [How I Work: $22K/Month Solopreneur](sources/NFWV9wxRuv4.md) — 2026-08-20 · Rob Hallam is a solo founder who makes $22K/month and runs his business alone while he travels (2026-08).
+- [I Spent 24 Hours With iOS Millionaires](sources/sAr9FWEQZAk.md) — 2026-08-16 · Pat Walls spends a day in New York with Blake Anderson and Zach Yadegari, two of the four co-founders of Cal AI.
+- [The Lazy Method: How I Build $10K/Month Apps](sources/zrsGDDLP7WM.md) — 2026-08-12 · Pat Walls interviews Will Baker, a UK designer who runs two iOS apps that make over $10K/month together.
+- [I Copied A Huge App. Now I Make $80K/Month](sources/GQ27QVp3SzQ.md) — 2026-08-09 · Tomer was a marketer for other businesses.
+- [How I Work: $40K/Month Solo App Builder](sources/k-aEdS28AH0.md) — 2026-08-02 · Jack Friks, a bootstrapped solo founder, describes how he works.
+- [How Postiz Went From $17K to $143K/Month in 4 Months](sources/n7Obxh9-Rc8.md) — 2026-07-30 · Nevo returns to Starter Story 5 months after his first interview.
+- [This Simple App Makes $18K/Month](sources/V_4kiR3R4QU.md) — 2026-07-26 · Ryan is a former product designer who left a $200K job to build apps.
+- [I Make $50K Per Month Working 5 Hours A Week](sources/DPb-M0Vt4uI.md) — 2026-07-23 · Timo, 23, a former software engineer at a German car company, built Chart Detector AI with his brother.
+- [This Stupidly Simple App Makes $100K/Month](sources/EQfZCe3MkTU.md) — 2026-07-19 · Pat Walls interviews Michael, a 20-year-old NYU finance student (X: @michaelque22).
+- [I Quit My Job at Meta to Build a $30K/Month SaaS](sources/2_lpZ503ZGg.md) — 2026-07-15 · Pat Walls meets Matt Robinson at a Los Angeles golf course.
+- [She Built This $340K/Month App in 60 Days](sources/Eg93po_DAYo.md) — 2026-07-12 · Sarah Pearl ("Hot High Priestess") built Stella, an AI manifestation app.
+- [This Insanely Simple App Makes $50K/Month](sources/uvIcGuN2iO8.md) — 2026-07-05 · Jake Glacer, 24, is a former Big Four accountant and self-taught coder.
+- [How I Work: $10M/Year Serial Entrepreneur](sources/jjUf7lrb_xQ.md) — 2026-07-01 · Sam Parr describes a typical day.
+- [How We Built This $20K/Month AI App](sources/DiRxTfnHTaY.md) — 2026-06-28 · Pat Walls meets Christian and Braylin, two college sprinters in Los Angeles.
+- [I Turned This Spreadsheet Into a $30K/Month Micro-SaaS](sources/d8PdJJcEtE0.md) — 2026-06-24 · Jack ran a high-margin e-commerce brand that sold music production software.
+- [I Built a $10K/Month App With This One System](sources/-VlJIgj6gM4.md) — 2026-06-21 · An Nayal built Flame, a daily ritual app for couples, in New York with his partner, now his wife.
+- [The First App I Ever Built Makes $25K/Month](sources/Q4k8JNYKJT0.md) — 2026-06-14 · Kyan is a 21-year-old computer science student at San Diego State University.
+- [I Built a $1M SaaS in a Hidden Niche](sources/NPpky92ZfjA.md) — 2026-06-10 · Zac Cherin and his partner Brendan built Hiro Analytics, a reporting and automation platform for email and SMS marketing agencies.
+- [I Built Two Apps That Make $120K/Month](sources/xWnqY2Mav4s.md) — 2026-06-07 · Kyle Fowler is a self-taught iOS developer who builds apps around his own hobby, collecting cards.
+- [I Built A $30K/Month App: Here's My Exact Process](sources/P4QodeA_lQ0.md) — 2026-05-31 · Benjamin "Benji" Chen is a 20-year-old NYU student who built more than 45 apps in about a year.
+- [I Built A Micro-Version Of A $1B SaaS. Now I Make $50K/Month](sources/Nnpz1wsTjBI.md) — 2026-05-28 · David and his brother Daniel are non-technical founders who learned marketing instead of code.
+- [I Built A $30K/Month in 35 Days](sources/vbEKEWtnndU.md) — 2026-05-24 · Pat Walls interviews Cedric Roberge, a University of Oregon student who built Pep AI, a peptide dose tracker and research app.
+- [I Make $1.7M/Year In The Most Boring Niche Imaginable](sources/BHhg-l9AZpM.md) — 2026-05-21 · Bohdan "Bo" Drozdov co-founded Savvy Nomad.
+- [My Two Apps Make $150K/Month Each](sources/32vqaJa90kw.md) — 2026-05-17 · Nicole built four consumer apps in two years with her co-founder Aaron.
+- [I Built a $20K/Month App in 83 Days](sources/r4R_Hlw7sbo.md) — 2026-05-10 · Pat Walls interviews Brian Shin, who built Once with his girlfriend and co-founder.
+- [How I Work ($77K/Month Solopreneur)](sources/D4fkiQfzw_I.md) — 2026-04-26 · Marc Lou makes $77K/month as a solo founder (2026-04).
+- [I Spent 24 Hours With A SaaS Millionaire](sources/iVy5J7iE-3Q.md) — 2026-04-19 · Pat Walls visits Jeremy Redman in Los Angeles.
+- [I Made $1.5M From An App You've Never Heard Of](sources/bq3-qH-CpYQ.md) — 2026-04-12 · Jordan Rejaud is a solo, bootstrapped founder who built Parakeet Chat, an AI chatbot and messaging service for people in US prisons.
+- [My App Makes $20K/Month: How I Found A Simple Idea And Turned It Into A Profitable Business](sources/PIXXEAfo6MY.md) — 2026-04-08 · Ethan is 19.
+- [How This App Makes $35K/Month](sources/rGLXc1GmsaI.md) — 2026-04-05 · Flo (Florian Vates) is a German iOS developer and former mobile UX lead.
+- [I'm 14 And I Built A $14K/Month App](sources/dWeoSKLt_fc.md) — 2026-04-01 · Evan Yadegari is 14.
+- [My App Made $120K in 24 Hours](sources/DkmStHS8NP0.md) — 2026-03-29 · Umberto Mezzadra built Floga, a mobile app for yoga teachers and practitioners.
+- [I Built a $100K/Month Android App](sources/0pp4X58q_0s.md) — 2026-03-25 · Steve Hoyek and his co-founder built Journable, an AI calorie counter, about 18 months before the video.
+- [I Make $250K/Month From 13 Businesses (After Losing Everything to AI)](sources/spiC5m6AJNs.md) — 2026-03-22 · Jacky Chou runs a portfolio of about 13 small internet businesses that make about $250K/month (2026-03).
+- [I Make $17K/Month With One Strategy](sources/4KfFB-dh71Y.md) — 2026-03-19 · Ben Leavitt runs FollowBuddy, a subscription app that shows who unfollowed you on Instagram.
+- [I Make $60K/Month From the Most Boring SaaS on the Internet](sources/LRX8TWC2hTM.md) — 2026-03-15 · Thomas Mahony was an IT admin who worked with Microsoft Intune every day.
+- [How This $250K/Month SaaS Got Its First 100 Users (Steal This Playbook)](sources/l4WEqPX52Cg.md) — 2026-03-11 · Joseph Lee founded Supademo, an AI tool that makes interactive, clickable product demos.
+- [I Built a $10K/Month SaaS Using Other People's Customers](sources/LKARRA0MvY4.md) — 2026-03-08 · Ivan, a founder from Macedonia, runs a software agency that got most of its clients from Upwork.
+- [Zero to $40K/Month With One Marketing Channel (No Social Media)](sources/E_rX4JJrYkY.md) — 2026-03-04 · Pat Walls interviews Miquel Palet ("Mickey"), a Spanish founder who built Late, a social media API for developers.
+- [I Make $15K/Month From One Website](sources/qIlX7cQ2UdU.md) — 2026-03-01 · Pat Walls interviews Maddox, a college student who built DuckMath, an "unblocked games" website paid by Google AdSense.
+- [I Built a Niche App to $9K MRR](sources/7vz6b_Ohdl0.md) — 2026-02-25 · Jonathan Fishner is a developer and co-founder of ChartDB, an open-source tool that turns a database schema into an interactive diagram.
+- [I sold my company](sources/v-uhjlMg9L0.md) — 2026-02-23 · Pat Walls documents the day he sold Starter Story.
+- [How I Built a $12K/Month Micro SaaS](sources/W48emwbUlUE.md) — 2026-02-11 · Vikash Prajapat is a former Photoshop freelancer from India.
+- [I Make $150K/Month From 20 Tiny Apps](sources/9sJ2R0rM3CA.md) — 2026-02-08 · Katie Keith runs Barn2, a remote team that built 20 products over 10 years.
+- [I Make $16K/Month Even in a Tiny Niche](sources/hYF4fQYlrso.md) — 2026-02-05 · Nic is a Ukrainian developer.
+- [I Made $500K From 8 Different Income Streams](sources/47QXbPGyzBI.md) — 2026-02-01 · Florin Pop is a developer and content creator.
+- [How I Built It: $17K/Month Open Source SaaS](sources/RPM4ImzcIFc.md) — 2026-01-28 · Pat Walls interviews Nevo, who builds Postiz, an open-source social media scheduler for 25 platforms.
+- [How I Used Reddit to Build a $34K/Month SaaS](sources/pvjalHFNM9Q.md) — 2026-01-25 · Roman Czerny co-founded Gojiberry AI, a tool that finds high-intent leads on LinkedIn and runs AI-personalized outreach.
+- [How I Built a $13K/Month SaaS](sources/R4BS_UiTBPw.md) — 2026-01-21 · Ayush is the marketing co-founder of Elephas, a Mac AI assistant.
+- [I Built a $20K/Month Mobile App: Here's My Entire Playbook](sources/yBjcmMhXSDk.md) — 2026-01-18 · Mau Baron is a finance graduate who taught himself to code with AI.
+- [I built a $14K/month SaaS using Discord](sources/9r0qPeSJGog.md) — 2026-01-14 · Sam Adeniyi is a university student with no coding background.
+- [How My App Hit $60K/Month in 2 Months](sources/XifgHi9R5Rc.md) — 2026-01-11 · Lara Acosta co-founded Kleo (spelled "Cleo" in the captions).
+- [How I Grew My App to $13K/month (Even Though I Hate Marketing)](sources/Adl5_lJfkEE.md) — 2026-01-07 · Bhanu is a solo developer from India.
+- [How I built my first SaaS without an audience ($25K/month)](sources/FCGpgPZqmkY.md) — 2026-01-04 · Pat Walls interviews Hassam, a non-technical founder who ran two Amazon private-label brands beside a corporate job.
+- [How I Used Twitter to Hit $10K/Month](sources/VYT-ip21P08.md) — 2025-12-28 · Rob Hallam is a laid-off software engineer who started posting on X in early 2023.
+- [How We Grew Our App to $30K/Month](sources/ST2ROUFbdvU.md) — 2025-12-20 · Alejandro and Mario built Pushscroll, an app that blocks social media until the user does push-ups, squats or a plank.
+- [My Mobile App Made $800K In 365 Days](sources/LYdJ3dfNCVs.md) — 2025-12-17 · Pat Walls interviews Louis David, a Canadian developer who built about 10 apps that failed.
+- [How I grew my mobile app to $17K per month](sources/8kM-JcKpcDs.md) — 2025-12-14 · Pat Walls interviews George Lampropoulos, an 18-year-old college freshman who cannot code.
+- [I make $10K/month from 28 apps](sources/vw2Yc4Y1PsU.md) — 2025-12-11 · Pat Walls interviews Max, an iOS engineer with a full-time job and two kids.
+- [I Shipped My App in 12 Hours and Now It Makes $15K/Month](sources/k2jecxFu2as.md) — 2025-12-09 · Louis Pereira works full-time in his family business in India and builds apps part-time.
+- [I built 4 SaaS apps to $100K MRR. Here's my exact playbook](sources/xeUhKuJbeWQ.md) — 2025-12-07 · Pat Walls interviews Tibo, a French founder who built and sold Tweet Hunter and Taplio.
+- [I make $120K/year from 3 mobile apps](sources/SJOFUBNHYqU.md) — 2025-12-04 · Pat Walls interviews Presh, founder of The Wellness Company, a small studio of health and wellness apps.
+- [How I Built It: $30K/Month Micro SaaS (Subscribr Breakdown)](sources/7KqlwjBM_tM.md) — 2025-12-02 · Gil Hildebrand built Subscribr, an AI scriptwriting tool for YouTube creators.
+- [My Apps Failed Until I Discovered This Playbook ($35K/month apps)](sources/-OPKa8DIzKU.md) — 2025-11-30 · Loïc Berthelot is a French founder.
+- [How He Makes $250K per Month From a Simple App (Letterly)](sources/wvYej-2KWDg.md) — 2025-11-24 · Anton built Letterly, a paid app that turns speech into well-written text.
+- [Our Mobile App Made $85K in 8 Months](sources/nsn94Ad47GY.md) — 2025-11-20 · Jack and Nick Sweeney are brothers who built Coherence, a breathwork app that helps users regulate the nervous system.
+- [How We Built It: $30K/month Mobile App](sources/rCV-TVCnF6Q.md) — 2025-11-18 · Eyal and Yahli Hazan are college students who built Prop GPT, a sports betting analytics app with a machine learning model that scores picks.
+- [My website makes $35K/month (built in 3 hours)](sources/LWPN-PAhtLA.md) — 2025-11-16 · Pat Walls interviews Pontus Abrahamsson, who co-founded the bootstrapped startup Midday with his friend Victor.
+- [How I Built It: $400K/Month Mobile App (Gravl)](sources/2dfMUtHlQik.md) — 2025-11-13 · Julian is a developer from Argentina who lives in Australia.
+- [I flipped 4 apps and made $500,000](sources/PmyXmpkTIdc.md) — 2025-11-09 · Pat Walls interviews Lotts Ezeike, a London founder who builds consumer apps to $10K to $20K MRR and then sells them for cash.
+- [I Built 3 SaaS Apps to $200K MRR: Here's My Exact Playbook](sources/67zh8_yiPh4.md) — 2025-11-02 · Mike is an Australian founder and former agency owner.
+- [I vibe coded a $12K/month mobile app (Stoppr Breakdown)](sources/orYTlk_BhW8.md) — 2025-10-30 · Pat Walls interviews David Attias, a former quant trader from France with no coding background.
+- [My 2 apps made $1.5M](sources/9WWvLj-NqEE.md) — 2025-10-28 · Kelechi is a 22-year-old founder from Nigeria who moved to the US with $100.
+- [I vibe coded a $20K/month mobile app in 14 days](sources/CwHD6Fg-Mjs.md) — 2025-10-26 · Connor Burd is a 23-year-old founder with no computer science background.
+- [How I Built a $30K/Month Mobile App](sources/T5zMsTw8GWQ.md) — 2025-10-23 · John McEvoy, a self-taught graphic designer from Scotland, built Momego, a live bus and train tracking app for over 160 cities.
+- [I made $1M flipping apps](sources/plrni3IBEyI.md) — 2025-10-21 · Domenico Gagliardi ("Dom") is a non-technical founder.
+- [I Found a Business for Sale and Rebuilt It Into $20K/Month](sources/4BsxnGRbF4k.md) — 2025-10-19 · Adrian Horning is a solo Node.js developer from Austin.
+- [I Rebuilt a $1B App and Now Make $14K/Month](sources/88BbTpbWVpY.md) — 2025-10-16 · Denis Yurchak is a trained diplomat who taught himself to code.
+- [Teen From Kazakhstan Makes $1M/Year Online](sources/YtyJ4reSQY0.md) — 2025-10-14 · Pat Walls interviews Mark Vassilevskiy, a 19-year-old designer from Kazakhstan.
+- [I built a $100K/month AI app](sources/DV7bBCAABg4.md) — 2025-10-11 · Dustin Stout built Magai, a paid chat app that gives access to many AI models (text, image and video) in one subscription.
+- [My App Failed, Then I Changed One Thing and Made $80K](sources/hYW9YDwHE20.md) — 2025-10-08 · Pat Walls interviews Praneeth, a builder from India who quit a $250K/year software job to build apps.
+- [I Built a $1M SaaS Using YouTube](sources/VZ1XspToV1E.md) — 2025-10-04 · Vasco and his co-founder Afonso grew Arvow, an AI SEO writer for agencies and business owners, to about $70K MRR in two years.
+- [My two apps made $30M](sources/w8oUlfgvcTI.md) — 2025-10-01 · Will Cannon built two bootstrapped software companies by copying markets that already had product-market fit.
+- [How We Built a $10K/mo SaaS](sources/3eY71OS4MFw.md) — 2025-09-27 · Josef Buettgen and Timo Nikolai met at a coworking space.
+- [This app replaced my 9-5 ($150K/year)](sources/w3zxMrwWrt0.md) — 2025-09-24 · Chris, an app developer, built Wishlists, a simple app to store wishes and share them with family.
+- [The $1M Mobile App Playbook](sources/hKqLceTPLWM.md) — 2025-09-20 · Steven Cravotta returns to Starter Story to explain the marketing playbook behind PuffCount, his quit-vaping app.
+- [I Quit YouTube, Built a $1M App Without My Audience](sources/laRliIVNZgU.md) — 2025-09-17 · Sebastian Ghiorghiu grew a YouTube channel to nearly 1M subscribers with flashy money content.
+- [My App Makes $41K/Month](sources/a1EXyJlSx9g.md) — 2025-09-13 · Pat Walls interviews Joe Rozek, a former Shutterfly engineering manager.
+- [How I Made $65K In 3 Days](sources/BNr1JOQdSN0.md) — 2025-09-10 · Pat Walls interviews Deven Bhooshan, an indie hacker from India and co-founder of SuperGrow.
+- [Our simple app made $100K in 90 days](sources/1nfPvJKrYYQ.md) — 2025-09-06 · Nikita (in Serbia) and Evgeniy (in Poland) built Natural Write, an AI "humanizer" that rewrites AI-generated text so it passes AI detectors.
+- [This app made over $1M](sources/VfNRd5Rk0cM.md) — 2025-08-31 · Ania Wysocka had a panic attack in her fourth year of university.
+- [How I Built a $4M Business (Simple Strategy)](sources/MLAH5OZ5FO8.md) — 2025-08-27 · Shaan Arora is co-founder and CEO of Alia, a bootstrapped SaaS that sells email capture pop-ups to e-commerce brands.
+- [How I Finally Built a $10K/Month SaaS (30 Failures)](sources/rPguT9z6kRQ.md) — 2025-08-23 · Pat Walls talks with Thomas Sanlis, who launched over 30 projects that failed before Uneed worked.
+- [How We Built It: $900K Open Source SaaS](sources/F8i0kkrQ8_o.md) — 2025-08-16 · Pat Walls interviews Marc and Iuliia, a husband-and-wife team.
+- [How I Built It: $23K/month micro-saas](sources/NvtsM8Nk72c.md) — 2025-08-13 · Pat Walls interviews Andy Cloke, a solo founder in London.
+- [How I Used Reddit To Build a $25K/Month Business](sources/3X4VneEHvig.md) — 2025-08-09 · Avneesh left big tech to build Savewise, a tool that helps people stack credit card points, airline miles and cashback on online purchases.
+- [I Copied a $100M SaaS, Undercut Their Prices and Hit $10K/Month](sources/_KaFS4Dxs5k.md) — 2025-08-02 · Pat Walls interviews Abhishek, the solo founder of Youform, a cheaper Typeform alternative.
+- [My AI App Makes $100K/Month](sources/miEUhwSR2-0.md) — 2025-07-30 · Pat Walls interviews Nico, a former physics PhD and musician who founded Neural Frames.
+- [I Cloned 3 Apps And Now Make $35K/Month](sources/8BtHk-oNlN0.md) — 2025-07-26 · Pat Walls interviews Samuel Rondot, a former optician who taught himself to code from a YouTube course.
+- [My Side Project Makes $15K/Month (Quit My 9-5)](sources/ZGwQoRw7mh8.md) — 2025-07-24 · Pat Walls interviews Ben Bozzay, a software developer who built Tech Lockdown.
+- [I Make $40K/Month With This One Website](sources/EF3uyvHHBfM.md) — 2025-07-20 · Angus Cheng is a developer in Hong Kong.
+- [How I Used Reddit to Hit $17K MRR (With ZERO Audience)](sources/BaWUPamqWlA.md) — 2025-07-09 · Pat Walls interviews Diego, the solo founder of App Alchemy.
+- [How I Built a $1M Business in 117 Days](sources/E_sPvPHwpuk.md) — 2025-07-02 · Pat Walls interviews Yasser Elsaid, who built Chatbase as a solo founder with no funding.
+- [This App Makes $25,000/Month](sources/HBCwzfFbopE.md) — 2025-06-25 · Pat Walls interviews Lukas Hermann, a software developer in Germany who built Stagetimer, a remote-controlled countdown timer for live events and video productions.
+- [How I Built It: $15K/month Mobile App](sources/gpn1jEoWT4A.md) — 2025-06-21 · Pat Walls interviews Sebastian Röhl, a 32-year-old developer in Germany who built HabitKit, a simple habit tracker for iOS and Android.
+- [I Make $100K/Year From 2 AI Side Projects](sources/CoqAxV6b6j4.md) — 2025-06-18 · Ramsri Goutham is an app builder in India.
+- [I Built a $1M SaaS 100% with No Code (Bubble)](sources/x9TUDb4sLE0.md) — 2025-06-14 · Pat Walls interviews Jacob Seeger and his co-founder Alex about Faceless Video.
+- [How I Built It: $9K/Month Micro SaaS](sources/npcL7oRZQlI.md) — 2025-06-11 · Leandro Zubrezki is a developer in Buenos Aires, Argentina.
+- [I Built an App with Cursor and Made $100K on Launch Day](sources/4hMg_CZauJs.md) — 2025-06-07 · Pat Walls interviews Alex Finn, a former MongoDB consultant who built Creator Buddy alone with AI coding tools.
+- [How to Use AI to Find a $1M Idea \[Reddit, Claude\]](sources/L_FY6aW9cJ4.md) — 2025-06-04 · Pat Walls interviews marketer Steph France about his "gold mining framework".
+- [I Make $250K/Month From 20 Apps](sources/En34iY-rQc0.md) — 2025-05-31 · John Rush spent 10 years in VC-backed startups.
+- [I Built an App with Cursor, Made $30K, and Quit My Job.](sources/jpSY4MlWX50.md) — 2025-05-24 · Pat Walls interviews Paulius Masalskas, who built Creator Hunter, a SaaS database that matches startups with influencers.
+- [From Zero to $42K/Month in 90 Days with AI](sources/0T55DRYqeeA.md) — 2025-05-21 · CJ Zafir built CodeGuide (codeguide.dev), a tool that writes detailed project documentation for AI coding tools such as Cursor, so the models hallucinate less.
+- [I Got Rejected From YC, Then Built a $200M Startup](sources/PSx0vcUY-sk.md) — 2025-05-07 · Sabba Keynejad and his co-founder Tim started VEED, a browser video editor, in 2018 in London.
+- [My Coding Game Makes $1M Per Month](sources/tMkpiFIW8Xg.md) — 2025-04-30 · Pat Walls interviews Lane Wagner, founder of Boot.dev, a gamified and interactive platform for learning back-end development.
+- [I Spent 24 Hours With Roblox Millionaires](sources/8xgnm6SynH4.md) — 2025-04-23 · Pat Walls visits three young founders in Austin, Texas, who earn from Roblox.
+- [My Apps Make $4.5M/Year With $0 Marketing](sources/vLLBzUZr6-s.md) — 2025-04-19 · Pat Walls interviews Erikas, a Lithuanian designer in Paris who builds Shopify apps with a developer co-founder.
+- [I Make $60K/Month with 4 Apps](sources/KpVPST_P4W8.md) — 2025-04-12 · Pat Walls interviews Jure Sotošek, a 26-year-old developer who left Microsoft.
+- [I Locked Myself In A Room, Made 17 Apps, & Sold 2 for $265,000](sources/zPijWd9uk-I.md) — 2025-03-31 · Nico Jeannen quit a bank job at 19, tried a tie brand and dropshipping, then locked himself in a hotel room for 2 months…
+- [I Built a $10K/Month App from My Mom's Basement](sources/qeY283nBhIA.md) — 2025-03-25 · Jack Friks quit McDonald's and dropped out of college to build online.
+- [The $10M AI SaaS Playbook](sources/KcCnqLBhvXY.md) — 2025-03-18 · David Park is the founder and CEO of Jenni AI, a set of AI research and writing tools for students and researchers.
+- [I Quit My Job & Accidentally Built A $10M Business](sources/gU9FtZIfb_M.md) — 2025-03-08 · Pat Walls interviews Ian Myers, founder and CEO of Oceans.
+- [The Underdog: From $200K in Debt to $1M App Maker](sources/h9R6ZeNruuI.md) — 2025-02-26 · Adam Lyttle ran a web design agency that made about $300K profit per year.
+- [The Underdog: From Life-Changing Accident to $100M/Year](sources/BeRKQkU5Ceo.md) — 2025-02-07 · Ryan Chen was paralyzed in a snowboard jump accident at 19.
+- [How I Built It: $20K/Month AI App as a Non-Technical Founder](sources/yue9in5oh64.md) — 2025-01-22 · Pat Walls interviews Colin McIntosh, a former recruiter and founder of Sheets & Giggles.
+- [He Made $10M with 3 iPhone Apps](sources/5u9u8yzPEpA.md) — 2024-12-29 · Pat Walls interviews Blake Anderson.
+- [The Underdog: He Turned His Last $1,000 Into $150M](sources/ZEIPj7QbZeI.md) — 2024-12-17 · Guillaume Moubeche grew up in Paris with little money.
+- [I Make $15K/Month With 2 AI Apps](sources/G4nsGvL4Fo0.md) — 2024-12-02 · Pat Walls interviews Fernando, a product designer from Argentina who lives in Sweden.
+- [How I Built It: $12K/Month Micro SaaS](sources/TCGXT7ySco8.md) — 2024-11-22 · Pat Walls interviews Dmytro Krasun, a former backend developer who quit his job two years earlier and built ScreenshotOne, an API that automates website…
+- [How I Built It: $37K/Month Notion App](sources/WuzxmeUP6ro.md) — 2024-11-07 · Pat Walls interviews Julien Nahum, a 28-year-old former software engineer who built NotionForms, a form builder for Notion users.
+- [The day I hit reset on my life](sources/xZDofUHbZHA.md) — 2024-10-30 · Pat Walls tells how he started Starter Story.
+- [9 Things That Make Me $1.8M/Year](sources/GFnBp8lMIf4.md) — 2024-10-21 · Pat Walls, founder of Starter Story, walks through the tools and habits behind a business that makes over $1M a year.
+- [How I Built It: $10K/Month AI Image Generator](sources/mjCa8IFjM2E.md) — 2024-10-15 · Pauline built AI Crea, an AI home-staging tool.
+- [How I Built It: $40K/Month iPhone App](sources/loXc0Tyi4R4.md) — 2024-09-24 · Steven Cravotta builds viral mobile apps without writing code or doing design.
+- [Faceless: From Immigrant to $1M/Year](sources/TNZmNIYv050.md) — 2024-09-01 · Nick Buzz is an anonymous designer on X who says he makes $1.2M a year.
+- [How I Built It: $20K/Month Chrome Extension](sources/ty9ZcimL6VE.md) — 2024-08-18 · Saeed Ezzati is a software engineer who spent almost a decade at startups.
+- [The Underdog: From $10/hr to $1.5M/Year](sources/WGVxAmmJUmY.md) — 2024-08-05 · Starter Story tells the story of Marc Lou, a French developer who went from a $10/hour waiter job to about $1.5M/year (2024-08) as a…
+- [I Turned $150 into $2M/Year](sources/8yCXyCN_NR0.md) — 2024-07-28 · Joseph, a self-taught coder in Lakeland, Florida, built StealthGPT.
+- [I Built A $1M SaaS In 87 Days](sources/WctFUP4w0sc.md) — 2024-07-22 · Andre Haykal Jr. built ListKit, a B2B lead-list SaaS for cold email.
+- [He Quit His Job And Makes $10M/Year Writing Online](sources/OoFqTMPW_3E.md) — 2024-07-13 · Dickie Bush left a hedge fund trading job at BlackRock and built a portfolio of four writing businesses that is on pace for $10M…
+- [They Make $1.4M/Year With AI](sources/b5JhfGHafZA.md) — 2024-06-22 · Pat Walls visits the three co-founders of Castmagic in Miami: Ramon Berrios, Blaine Bolus and Justin.
+- [I Make $1M/Year As An Introvert](sources/trNGj1BN1GU.md) — 2024-06-15 · Marcos Ruiz runs The Birdhouse, a Twitter (X) ghostwriting agency for coaches, consultants and education companies.
+- [The Multipreneur: He Makes $10M/Year With 6 Businesses](sources/akM6P97_0B8.md) — 2024-06-08 · Pat Walls visits Greg Isenberg in Miami.
+- [I Hacked Reddit to Build a $1M Business](sources/ptT0tfzeu8I.md) — 2024-06-01 · Pat Walls tells how Starter Story got its first traction.
+- [I Make $1M/Month From Bed](sources/dphK9rh2F5U.md) — 2024-05-12 · Pat Walls interviews Colin McIntosh, founder of Sheets & Giggles, a direct-to-consumer bedding brand.
+- [I Turned One Website Into $1M/Year](sources/7pCgbhUWW54.md) — 2024-05-04 · Matt Giovanisci runs Swim University, a pool and hot tub care education site that made $1M in 2023.
+- [I Make $5M/Year With 3 Businesses](sources/zTKYJWAEl78.md) — 2024-04-27 · Pat Walls visits Tim Stoddart in Denver.
+- [I Made $2.5M Selling A Digital Product](sources/OKl0C3zg0LU.md) — 2024-04-18 · Pat Walls interviews Thomas Frank, who sells two premium Notion templates: Ultimate Brain and Creator's Companion.
+- [I Built a $1M App in 5 Hours](sources/u8sW-NhGfXw.md) — 2024-04-06 · Pat Walls visits Dawson Botsford in his Sprinter van in Boulder, Colorado.
+- [I Make $1M/Year With One Website](sources/7LZ0MTkNr34.md) — 2024-03-30 · Alex Goldberg runs FinvsFin, a product review site that compares health and wellness products, mostly telehealth brands.
+- [I Built This $5M/Year Business From A Van](sources/6iqo7lNR_m0.md) — 2024-03-23 · Pat Walls visits Jeremy, known online as "Van Man", at his warehouse in San Diego.
+- [I Made $30M With My Side Project](sources/uBGbvKScavk.md) — 2024-03-10 · Kevin Espiritu founded Epic Gardening, which he calls the world's most followed gardening brand.
+- [The Underdog: From Dead Broke to $30,000,000](sources/GGxUH6EXF9I.md) — 2024-03-03 · KC Holiday was a waiter and bartender in Beverly Hills.
+- [I Make $2.4M/Year With 6 YouTube Channels](sources/G5cbMnFXcj0.md) — 2024-02-18 · Charlie Chang, 31, runs six YouTube channels from Southern California that make $200K to $250K a month, plus Paired, an overseas staffing company.
+- [I Built a $1M AI App \[No Code\]](sources/IZsQqarWXtY.md) — 2024-02-11 · Pat Walls interviews David Bressler, who built Formula Bot (first called Excel Formula Bot) on Bubble with no code.
+- [The Underdog: From His Parent's Basement to $25M](sources/Gv2fzC96Z40.md) — 2024-01-28 · Pat Walls tells the story of David Park, co-founder of Jenni AI, an AI writing assistant.
+- [The $1.8M Solopreneur Playbook](sources/vedkm3ZmHIE.md) — 2024-01-13 · Pat Walls breaks down how Brett Williams built DesignJoy, a one-person "unlimited design" subscription service, into a business of about $1.8M to $2M a…
+- [How I Built A $1M Business From This Starbucks](sources/T_wEmB5MapE.md) — 2024-01-01 · Pat Walls tells how he started Starter Story in 2017 as a side project while he worked a six-figure 9-to-5 job in New York.
+- [I Quit My $250K Job To Become an Author](sources/lWwZ-fsD8gM.md) — 2023-12-20 · Pat Walls visits Paul Millerd in Austin.
+- [I Became A Venture Capitalist With Only $1,000](sources/p3xa6mpxvOY.md) — 2023-11-15 · Pat Walls interviews Alex Pattis in New York.
+- [The Multipreneur: He's Building A $10M Portfolio of Income Streams](sources/nzVcbrLl9VU.md) — 2023-11-02 · Pat Walls interviews Alex Lieberman, co-founder of Morning Brew, about his plan to build a personal holding company.
+- [They Built A $2M Business To Fund Their Dreams](sources/e6COsh5wfNA.md) — 2023-10-18 · Pat Walls visits Henry Belcaster and Dylan Jardon, college roommates in Chicago.
+- [He Built A $2.5M/Year Business In 2 Years](sources/i6kCkGmJc9M.md) — 2023-10-04 · Pat Walls visits Karl Hughes in Chicago.
+- [The Underdog: He Turned His Last $4,000 Into $48M](sources/IuoscQiQQLg.md) — 2023-09-27 · Aaron Spivak and his co-founder Leor started Hush Blankets in Toronto while they both had other jobs.
+- [He's Launching A New $1M Business Every Month](sources/wqN-gjnpns8.md) — 2023-09-20 · Hunter Hammonds runs Assembly, a studio that builds creator-led B2B brands.
+- [Meet the Kid Who Made $1M with ChatGPT](sources/irEi7DVBHdA.md) — 2023-08-30 · Pat Walls visits Joe Popelas, a 20-year-old computer science student in Toronto.
+- [I Made $2.3M Writing Like a 5th Grader](sources/9pP4qSrt5GU.md) — 2023-08-23 · Pat Walls visits Cardinal Mason in Miami.
+- [I Make $845,601 Writing This Online...](sources/5MaPEK-yVVY.md) — 2023-07-11 · Pat Walls of Starter Story visits Alex Garcia in Austin, Texas.
+- [How To Build A $100M Podcast Empire](sources/Fk2J2U7669o.md) — 2023-06-21 · Pat Walls visits Danny Miranda in Austin.
+- [I Make $11M/Year Selling One Product](sources/5C3YCTL-36c.md) — 2023-06-07 · Oliver Brocato started Tabs Chocolate, a "sex chocolate" made from natural libido supplements, in his college apartment.
+- [I Make $1.3M/Year With One Skill](sources/dXKzST0FE-A.md) — 2023-05-17 · Brett runs DesignJoy, a one-person design studio that sells unlimited design requests as a monthly subscription.
+- [The Solopreneur: He Makes $1.7M With 0 Employees](sources/v6IF-lVuvbs.md) — 2023-04-24 · Justin Welsh runs a one-person knowledge business that made $1.7M in 2022 and expects about $2.5M in 2023.
+- [Zero to $1.1B from Flipping Websites](sources/Km0FNcBI9CM.md) — 2023-04-17 · Starter Story visits Thomas Smale, founder of the M&A firm FE International, in his New York office.
+- [He Turned $500 Into $10M](sources/CnE_fLDqa7M.md) — 2023-04-09 · Pat Walls visits Karthik Shanadi in New York.
+- [He Makes $125,000/year As A Niche YouTuber](sources/DZTApvWzMuY.md) — 2023-04-03 · Shervin (channel: Shervin Shares) quit a six-figure software engineering job, and later a product manager job, to make tech, gadget and fitness videos full…
+- [He Built A $600,000 One Person Business (with video editing)](sources/BskeAo66er0.md) — 2023-03-27 · Scott Millard, a former freelance video editor, runs a productized service that sells short animated video ads to funded B2B SaaS companies.
+- [How To Make $30K/month With Cooking](sources/hCvy-Rt7Naw.md) — 2023-03-16 · Pat Walls of Starter Story profiles Chris, who left a 9-to-5 job and now makes about $30K/month (2023-03) from food and cooking content.
+
+## superwallhq
+
+- [Meet the ex-wrestler making $41k/mo with AI apps](sources/7yLgHeYeQAE.md) — 2026-10-12 · George is a non-technical former wrestler.
+- [If I Had to Start a $1M App From Scratch, I'd Do This](sources/TCRUvJ-Fq9U.md) — 2026-10-11 · Joseph Choi, host of the Superwall channel and founder of Consumer Club, gives his blueprint for taking a new consumer app toward $1M a…
+- [What 500M App Downloads Taught Me About Human Psychology](sources/Qh314MypshM.md) — 2026-10-08 · Joseph Choi hosts the Superwall channel.
+- [The 1 Billion Views Content Strategy Every App Should Steal](sources/VGJWRjz6nq8.md) — 2026-10-05 · Joseph Choi interviews Dawson Gibbs, founder of the UGC agency Evo Marketing.
+- [How To Grow Your App 23x Faster Than The Competition](sources/SuUJgmbQrVc.md) — 2026-09-27 · Joseph Choi interviews Canyon of Sideshift, a UGC creator marketplace.
+- [1,000 Hours of Studying the Most Profitable Apps in 17 Minutes](sources/0mOLs315i04.md) — 2026-09-23 · Joseph Choi, host of the Superwall podcast and founder of Consumer Club, sums up two years of interviews with app founders and his own…
+- [The NEW App Content Strategy Dominating in 2026](sources/ka3gqzmUuvc.md) — 2026-09-13 · Matt Espinoza runs Clover Labs, an organic distribution company in Canada that reached $8M a year within six months.
+- [How to Build an $18M/Year Apple Watch App (Free Masterclass)](sources/tv5hEdmbUTM.md) — 2026-08-30 · Joseph Choi interviews Assia Poloni, Chief Product Officer of Welltory.
+- [Meet The Marketing Genius Behind Cal AI](sources/l0vswWcGmMs.md) — 2026-08-25 · Joseph Choi interviews Alfie Dickens.
+- [#1 UGC Expert Reveals How to Market Consumer Apps](sources/F2dVvzvwtBY.md) — 2026-08-03 · Joseph Choi interviews Nick Lawton, co-founder of SideShift, a marketplace where apps run UGC creator campaigns.
+- [$16M AI CEOs: How to Make $1.3M/Month With AI Apps](sources/oxr_Dz1vhdU.md) — 2026-07-28 · Joseph Choi interviews Patrick Stuart-Constant and Pablo of Social, a profitable app studio with 22 apps at $16M annualized revenue.
+- [Beginners Guide to Buying & Selling Apps 2026](sources/Y6RstwPUWdU.md) — 2026-07-19 · Joseph Choi interviews Steve Young of App Masters, who started in apps in 2010.
+- [$172M of App Building Advice in 50 Minutes](sources/u4tpE9AvBpc.md) — 2026-07-08 · Josh heads M&A at Blue Throne.
+- [I speedran an ai app to $100k in 70 days.](sources/mOpYezjqU9c.md) — 2026-06-28 · Cedric Roberge is a college student who built Pep AI, a tracker for peptide and GLP-1 users.
+- [How to Build a $2M/Month App (Copy Me)](sources/GUkXzJ2S6Z8.md) — 2026-06-21 · Joseph Choi interviews Marcus Burke, a Meta ads consultant for subscription apps.
+- [The 14-Year-Old Who Built a $14K/Month AI App](sources/qYYeu0E-1SI.md) — 2026-06-07 · Evan Yadegari, a ninth grader and the younger brother of Cal AI founder Zach Yadegari, grew Locked to over $14K/month (2026-06).
+- [I Studied 1,000,000 UGC Ads, This Is What Will Grow Your App](sources/qnDdabj8Fok.md) — 2026-06-01 · Joseph Choi interviews Drew Levin, co-founder of SideShift, a marketplace that supplies UGC creators and campaign managers to consumer apps.
+- [The EXACT System to Go From 0-$10M+ With Your App](sources/CdBuMyrqWCs.md) — 2026-05-24 · Joseph Choi interviews Kieran, a founding team member who runs marketing at StudyFetch, an AI study platform for students.
+- [The NEW Short Form Strategy Dominating For App Growth](sources/eh1SDHX84vQ.md) — 2026-05-21 · Joseph Choi interviews Yiannis, a machine learning scientist who now runs organic TikTok for consumer apps.
+- [She Makes $400K/Mo From AI Apps While in College](sources/Bf12MNPO-Js.md) — 2026-05-11 · Joseph Choi interviews Nicole, a college senior who built four consumer apps in two years.
+- [I speedran a new app from 0 to $2m/year in 6 months (here's how)](sources/ukGtpnfBpvU.md) — 2026-05-05 · Joseph Choi interviews Daniel Heintzman.
+- [Copy This Facebook Ads Strategy (It'll Blow Up Your App)](sources/7JtttjbTRAQ.md) — 2026-04-26 · Joseph Choi interviews Alex, co-founder of Boost App Social, an iOS app for Instagram growth with hashtags and editing tools.
+- [How I built a $500k/mo ai app (so you can just copy me)](sources/s9qQPM92JNs.md) — 2026-04-19 · Morrie Schonfeld co-founded Pingo, an AI voice companion for speaking practice in about 20 languages, with his college roommate Michael.
+- [Copy This AI App's $6.7M/yr Marketing Strategy](sources/E_4gRy4O03w.md) — 2026-04-12 · Joseph Choi interviews Brett Bauman and Zack Hargett, two former Loom employees who built Coconote.
+- [0 to $300k/mo in 45 days with my ai app (just copy me)](sources/PFfo4JySptw.md) — 2026-03-29 · Dillion Verma and his partner built Halo AI, an AI photo editor on the Gemini API, after 18 months of failed products.
+- [I speedran an ai app from 0 to $1m/yr in 10 months](sources/zFfBuyKoaDM.md) — 2026-03-23 · Joseph Choi interviews Koby Conrad, founder of Sunflower.
+- [The Stupid Simple Content Strategy That's Making Apps Go Viral](sources/I10xtUiXfeY.md) — 2026-03-15 · Joseph Choi interviews Casper, a finance and side-hustle creator with about 9M followers.
+- [I Speedran an AI App From 0 to $100K Exit in 26 Days](sources/yw5iIgO4PbY.md) — 2026-03-09 · Joseph Choi interviews Caleb Dean, who sold his ranked running app Runafy at about 5x ARR after only 26 days of revenue.
+- [Meet The 18y/o Who Solved UGC Marketing (100M Views in 2 Weeks)](sources/szgT-8gXd3s.md) — 2026-03-01 · Jay is a former big tech engineer who built NomadTable, an app where solo travelers create activities and meet people nearby.
+- [Copy This UGC Strategy, It'll Make Your App Go Viral](sources/RVnnqTrSKZY.md) — 2026-02-23 · Joseph Choi interviews Jay, the solo founder of NomadTable, an app that helps solo travelers meet people nearby through activities.
+- [Full App Growth Guide 2026 - How to Make Viral Content to Get Users & Make Your App Retentive](sources/pb4JIH8FubE.md) — 2026-02-16 · Joseph Choi interviews An, founder of Flame, a couples app built around a daily question that partners answer together.
+- [I made 4,000 app paywalls and learned this](sources/lkwX_kc0NS8.md) — 2026-02-08 · Joseph Choi interviews Jonathan Parra, the former lead paywall designer at Superwall.
+- [this 14 yr old makes $100k/mo PROFIT building apps with ai (here's how)](sources/FIgn-1kbzZw.md) — 2026-02-01 · Joseph Choi interviews Rafael Kramer on the Superwall podcast.
+- [Meet the Guy Who Solved App Growth on TikTok](sources/_aNVPMvd8WU.md) — 2026-01-25 · Nic Weber co-founded Noise, a platform where up to 50,000 people post an app's TikTok content and get paid per view.
+- [Meet The Guy Dominating The App Store](sources/DcDOgWGh4bc.md) — 2026-01-17 · Ryan Thorp ran a portfolio of 30 to 35 acquired consumer apps with over 50M downloads in total, starting from the journaling app Reflectly.
+- [The App Marketing Strategy No One Talks About](sources/SyVVLbMgAXc.md) — 2026-01-11 · Joseph Choi interviews Nick and Ivan, two founders who run an agency for automated Instagram comments.
+- [he had nothing.. until he built a stupid simple $30k/mo app with AI](sources/CyaWU1qxQg4.md) — 2026-01-04 · Joseph Choi interviews Dmitri, who built YourMove AI, an AI dating assistant, as a side project while he was a data science manager at…
+- [He Went From Struggling to Make $1 From His App to Turning Down $1M](sources/CtqEbgutSb4.md) — 2025-12-21 · Joseph Choi interviews solo founder Jack Friks about four products.
+- [This 23 Yr Old Genius Makes $1M/Year with No-Code Apps. Here's How](sources/zpTXi8WxeM0.md) — 2025-12-17 · Joseph Choi interviews Connor Burd, a 23-year-old indie developer with 4 or 5 earning apps and over $1M/year in total (2025-12).
+- [How I Built the #1 App on The App Store (Twice)](sources/jZ1W85VdIBk.md) — 2025-12-06 · Joseph Choi interviews Roger Chen, who built two consumer social apps that hit #1 on the App Store.
+- [How I make $42k/mo passively with simple no-code apps (copy me)](sources/CAi50V_eIRA.md) — 2025-11-28 · Kyle Fowler built Cardstock, a sports card scanner app, and later Scanomon for Pokémon cards.
+- [Our App Makes $750K/Mo Thanks to This UGC Strategy](sources/Ca_VnMTosRo.md) — 2025-11-23 · Matt vibe coded a citation-checker startup for students and grew it with his own TikToks.
+- [He went from 0 to $150k by building an ai fashion app (no-code)](sources/9655E10fxsk.md) — 2025-11-21 · Joseph Choi interviews Reid Moncada, founder of Fitted, an AI closet app that digitizes your clothes, suggests outfits and supports resale.
+- [Our No-Code Apps Made $50M Using THIS Paywall](sources/24QMRDXck70.md) — 2025-11-16 · Joseph Choi (Consumer Club) interviews Vahe Baghdasaryan of Tangent Growth on the Superwall podcast.
+- [this ai study app makes $100k/mo. here's how (no-code)](sources/zdbimhZjm7k.md) — 2025-11-02 · Julian Alvarez co-founded Jungle, an AI study app.
+- [He made $2.2M from building simple apps. Here's how (no-code)](sources/2cDIFx4WWD0.md) — 2025-10-26 · Dan Kwon was a social media creator before he marketed apps.
+- [Copy This Growth Strategy, It'll Blow Up Your App](sources/D7eaHcznLZU.md) — 2025-10-22 · Joseph Choi interviews Phoenix Do, who builds consumer apps in the manifesting and self-help niche.
+- [Our App Makes $30K/Month Profit Using This Simple Strategy](sources/PdudtXwEsOQ.md) — 2025-10-18 · Joseph Choi interviews Alejandro and Mario, the European founders of Pushscroll.
+- [How to Make Viral Content 100% Using AI in 2025](sources/kMO0VYTBC7U.md) — 2025-10-09 · Joseph Choi of Consumer Club interviews Zuhair Lani, founder of Double Speed, an a16z Speedrun startup.
+- [He Built a Simple $120k/Yr App, Then Sold It For Multiple 6 Figures!](sources/NmIHgCRd04E.md) — 2025-09-28 · The Superwall podcast interviews Lots, a founder who builds faith and viral consumer apps and sells them fast.
+- [This 20yr old girl is a marketing genius…](sources/MsJNJfFeOCg.md) — 2025-09-14 · Joseph Choi interviews Eunice Lie, a 20-year-old college student.
+- [I Built a $30k/mo App That Helps You Quit Smoking](sources/cYcU4_HQdIk.md) — 2025-08-28 · Joseph Choi interviews Asher Hurstman and Thatcher Kloff, co-founders of Clear 30.
+- [My App Makes $600K/Year Using This Easy Growth Strategy](sources/si3HzkBTPl4.md) — 2025-08-15 · Joseph Choi interviews Peter, a co-founder of Stronger, a gamified workout tracker from Northern Ireland.
+- [This app makes $2m/year using this ridiculously easy strategy](sources/r_JUxa3RZgM.md) — 2025-08-03 · Joseph Choi interviews Dan, founder of Massive, a "Tinder for jobs" web and mobile app.
+- [Meet the Guy Who Solved Growing Apps: Hunter Isaacson](sources/DTree0unT_0.md) — 2025-07-25 · Joseph Choi interviews Hunter Isaacson, who built NGL, Wink and the crypto app Bags.
+- [The Secret Behind Weirdly Viral Apps](sources/_a4ch3pk_U0.md) — 2025-07-17 · Joseph Choi interviews Canyon, co-founder of Sideshift, a marketplace where college students take UGC jobs.
+- [This App Makes $2M/Year With This Viral TikTok Strategy](sources/AtYlYzw40vo.md) — 2025-07-07 · Joseph Choi interviews Jay, CEO of Bloom, a Gen Z "learn to invest" app that mixes Robinhood-style investing with Duolingo-style lessons.
+- [How I Grow Viral Apps to 1M+ Downloads (just copy me)](sources/lXGmWdFLsuM.md) — 2025-06-23 · Joseph Choi interviews Yev, head of growth at Sizzle AI, an edtech learning app, and a former data scientist.
+- [The Secrets of Consumer Club: Insights from Joseph Choi - Superwall Podcast](sources/_9agAuKOOPg.md) — 2025-04-04 · Taylor Fox of Superwall interviews Joseph Choi, founder of Consumer Club.
+
+## timgabe
+
+- [I Redesigned a Neobank App (Here's Why People Started Funding It)](sources/0GMQRCnOQmo.md) — 2026-10-22 · Tim Gabe presents his studio Zipzap's redesign of a crypto neobank card.
+- [The Psychology of Premium Apps](sources/8EAYZe6y3I8.md) — 2026-10-15 · Tim Gabe argues that AI tools give every product the same "decent" look.
+- [The Secret Behind Apps Big Players Can't Copy](sources/zH0SVLzLBpU.md) — 2026-10-11 · Tim Gabe, who runs the design agency ZipSnap, explains the "hidden assumption".
+- [How Top Apps Scientifically Design Paywalls That Convert](sources/qJ4qYhTqAz0.md) — 2026-10-09 · Tim Gabe argues for "structure before price".
+- [How Top 1% Apps Earn Your Second Visit](sources/YA3QpYIKqNI.md) — 2026-10-07 · Tim Gabe walks through his studio's redesign of Undertone, an app that records therapy sessions and makes a recap.
+- [Retention 101: How Top 1% Apps Keep Users For Years](sources/IKrLPhaFcp4.md) — 2026-09-29 · Tim Gabe argues that rewards and reminders do not build lasting habits.
+- [Why Irresistible Apps Are Designed This Way (It's Genius)](sources/VkFDdGGGA-s.md) — 2026-09-15 · Tim Gabe explains what he calls the "tick tock formula".
+- [The Only Formula Behind Truly Great Apps](sources/YS7uOXjmJTA.md) — 2026-09-01 · Tim Gabe builds the same wake-up alarm app with AI at four levels of design input.
+- [The Twisted Psychology Behind Top 1% Apps](sources/nQKWYmrixCU.md) — 2026-07-08 · Tim Gabe, a product designer who worked for Spotify and many startups, explains how fast-growing apps make users "feel seen" without real personalization.
+- [The Weird Design Playbook of 6 App Outliers](sources/HA4yB_sd62Q.md) — 2026-06-24 · Tim Gabe went through more than 200 top-charting App Store apps.
+- [Why Leaderboards Kill App Retention (How To Fix It)](sources/BxhsCu9hNpY.md) — 2026-06-16 · Tim Gabe argues that most founders reach for features, notifications and streaks to fix retention.
+- [How Top 1% Indie Apps Beat Giants](sources/MAvKHToGiVY.md) — 2026-06-10 · Tim Gabe argues that AI makes new apps cheap, so experience is the moat.
+- [How To Solve The App Onboarding Paradox](sources/Aa89MC8jX2c.md) — 2026-06-03 · Tim Gabe looks at a paradox: some top apps have very short onboarding and others have very long onboarding.
+- [I Studied 10,000 Paywall Screens (THIS Makes People Pay)](sources/sYRhXB_ZcLI.md) — 2026-05-18 · Tim Gabe reviews 10,000 paywall screens and the 2026 RevenueCat and Adapty reports, which cover about $3B in subscription revenue.
+- [I Studied 500+ Gamified Apps (Here's What Actually Works)](sources/LXX_qOA5D8E.md) — 2026-05-11 · Tim Gabe reviews research and case studies on gamification in mobile apps.
+- [How a Chinese Unicorn App “Out-Addicts” Netflix](sources/7dCZrtH15zc.md) — 2026-05-06 · Tim Gabe is a designer with more than 10 years of work for Spotify and many startups.
+- [How to Scientifically Design Addictive Apps](sources/yBpv5rZoBjA.md) — 2026-04-17 · Tim Gabe runs the design agency ZipSnap.
+- [The 3-Stage Trick Behind Every Addictive App](sources/uoLpH_20qKw.md) — 2026-04-13 · Tim Gabe runs a design agency and was a designer at Spotify.
+- [Why Most SaaS Companies Will Die in 2026](sources/ZXWUg1e1PAs.md) — 2026-04-07 · Tim Gabe argues that AI agents will not replace apps.
+- [Our World Class App Design Formula](sources/wmTkiF23GRQ.md) — 2026-04-02 · Tim Gabe walks through the six-stage process his agency Zipsnap uses to take an app from napkin sketch to production-ready design.
+- [The New Way Apps Dominate in 2026](sources/yYs7iv81Ppk.md) — 2026-03-31 · Tim Gabe argues that engagement loops are only "layer one" of retention.
+- [How Addictive Apps Are Made](sources/AnL49w4yIOw.md) — 2026-02-26 · Tim Gabe presents a three-layer framework for apps that people cannot put down.
+- [Give Me 13 Minutes, I'll Grow Your App](sources/v1f9iYZ2GhQ.md) — 2026-01-28 · Tim Gabe says founders try to grow with more ads and traffic, but they pour users into a leaky bucket.
+- [How Netflix Made Us All Binge (Design Breakdown)](sources/hIm3d3JAsPw.md) — 2026-01-15 · Tim Gabe, a designer who has worked with Spotify and runs the design studio Zipzap, breaks down three "design weapons" behind Netflix's binge-friendly product.
+- [Viral Design Tricks From Spotify (Founder Playbook)](sources/Tpg0pxKHrCA.md) — 2026-01-07 · Tim Gabe, a former senior designer at Spotify, explains three design principles that he says made Spotify beat better-funded rivals.
+- [What Founders Can Learn From Apple's Design Domination](sources/doiaMtD80p8.md) — 2025-12-26 · Tim Gabe breaks down four design principles behind Apple's software and turns each into advice for founders.
+- [The Tiny Design Rule Behind Top 1% Apps](sources/11h4H3TAGkM.md) — 2025-12-14 · Tim Gabe explains the peak-end rule from Daniel Kahneman.
+- [The Future of App Design Is Invisible](sources/zRUoPIwCxfw.md) — 2025-12-03 · Tim Gabe argues that AI is changing the rules of software the way the iPhone changed phones.
+- [How Tinder's Design Hacked Society](sources/4yKtlOWClhA.md) — 2025-11-28 · Tim Gabe, a product designer for over a decade who has worked with Spotify, breaks down how Tinder beat older, feature-rich dating sites with…
+- [The Hidden App Growth Killer (How To Avoid It)](sources/55hDj88zKa8.md) — 2025-07-24 · Tim Gabe argues that weak onboarding, not missing features or bad marketing, is the main reason apps lose new users.
+- [Copy These SaaS Growth Tricks (It'll Blow Up Your Business)](sources/puldme__Ckk.md) — 2025-07-14 · Tim Gabe, a product designer, breaks down eight A/B test results from subscription apps.
+- [How Top 1% Apps Keep You Hooked](sources/D9SXaj6qQIQ.md) — 2025-06-25 · Tim Gabe argues that ordinary apps keep users with the same psychology as social media.
+- [Do Companies Really Need Designers Anymore?](sources/bOm9GDv96Tk.md) — 2025-06-11 · Tim Gabe, a designer for over 10 years and ex-Spotify, asks whether AI tools replace designers.
+- [The Secret Behind Weirdly Addictive Apps](sources/Du2lkZ_cux8.md) — 2025-05-28 · Tim Gabe argues that features are easy to copy now, so the lasting edge is emotional design: how a product makes people feel.
+- [Give Me 10 Minutes & I'll Boost Your Website Conversions](sources/TIfiy1fodDs.md) — 2025-05-23 · Tim Gabe gives four changes that move a SaaS landing page from average to high-converting.
+- [How Raycast Reached a $100M+ Valuation (As a Small Startup)](sources/eWGNjTLK84c.md) — 2025-05-13 · Tim Gabe breaks down four design decisions behind the growth of Raycast, a keyboard launcher for Mac.
+- [5 Tools I Wish I Found Sooner (For Designers)](sources/qmJVN2158Mk.md) — 2025-04-28 · Tim Gabe is a designer and design-agency owner.
+- [4 Levels of UI/UX Design (and Big Mistakes to Avoid)](sources/86PGRyQjdzQ.md) — 2025-04-04 · Tim Gabe takes one screen from a real client project at his agency, a voting rewards screen, and redesigns it at four levels: beginner…
+- [Master Lovable AI in 30 Minutes (Beginner Tutorial)](sources/CfwNxDEXe6I.md) — 2025-02-19 · Tim Gabe builds "FoodTube," a YouTube clone, in Lovable in about 30 minutes without writing code.
+- [i'm back, and EVERYTHING is changing](sources/dg_LmOjapRA.md) — 2025-01-20 · Tim Gabe returns to YouTube after about a year away, past 100K subscribers.
+- [Learn Framer For Beginners: Mini Course (2024)](sources/wgMgje60Ovw.md) — 2024-07-10 · This is a free mini course of 2 hours 5 minutes, cut from Tim Gabe's paid "Framer Zero to Hero" course (23+ hours).
+- [How To Design a $5k Website in 5 Minutes](sources/hCKdIwbhS-s.md) — 2024-07-08 · Tim Gabe takes a challenge: turn a free Framer SaaS template into a site that looks like a $5K client project, in 5 minutes…
+- [Design Better Than 99% of UI Designers](sources/PGQnGEH7c-E.md) — 2024-01-02 · Tim Gabe fixes a weak website with seven guidelines.
+- [From Figma to 3D Website Using Framer + Spline](sources/4Byq1fjaUSY.md) — 2023-11-22 · Tim Gabe turns a Figma design into a scroll-driven 3D website.
+- [Framer Parallax Trick (Loop + Scroll Speed Tutorial)](sources/V-xm5c_XRWU.md) — 2023-11-16 · Tim Gabe builds a parallax scroll section in Framer.
+- [3 Tricks for Amazing Button Animations (Framer Tutorial)](sources/inkIfPtmE9s.md) — 2023-11-09 · Tim Gabe builds three animated buttons in Framer for beginners.
+- [Nested Components in Framer (Beginner Tutorial)](sources/Z-Jic1TrMZQ.md) — 2023-11-02 · Tim Gabe builds a tabbed gallery in Framer from two small components: a tab and an image.
+- [Figma vs Framer in 100 Seconds](sources/XPim-a5R6yw.md) — 2023-10-26 · Tim Gabe compares Figma and Framer and says which one to pick.
+- [I Made the Biggest Movie Ever Into a Website](sources/R33gaV3EV1I.md) — 2023-10-20 · Tim Gabe builds a website for the movie Avatar in Framer.
+- [Easy Scroll Animation for Beginners (Framer Tutorial)](sources/zsxcr7aP2yo.md) — 2023-10-12 · Tim Gabe builds a scroll-triggered section in Framer in about 10 minutes.
+- [5 Tricks For Epic Hero Animations (Framer Tutorial)](sources/m2NXQjKPUrg.md) — 2023-10-05 · Tim Gabe builds an animated hero section in Framer from one Midjourney image.
+- [Webflow vs Framer in 100 Seconds](sources/t8ThPNdc_9w.md) — 2023-09-21 · Tim Gabe compares Webflow and Framer in four areas: pricing, Figma export, CMS and overall UI.
+- [Crash Course on Framer CMS (Beginner Tutorial)](sources/ADrNwS19i5I.md) — 2023-09-14 · Tim Gabe rebuilds the resources section of timgabe.com to teach the Framer CMS from scratch.
+- [Can You Copy 6 Websites in 66 Seconds?](sources/bBamB0yE12c.md) — 2023-09-05 · Tim Gabe tests Framer's new "HTML to Framer" extension.
+- [Sticky Scroll Explained in 3 Minutes (Framer Tutorial)](sources/DRvge30wQFM.md) — 2023-08-31 · Tim Gabe explains sticky scroll in Framer.
+- [Framer Scroll Animations For Beginners](sources/HHnlp_Bj0J4.md) — 2023-08-24 · Tim Gabe builds a small scroll-driven layout in Framer to teach its four scroll effects.
+- [Framer Components for Beginners (Netflix Carousel)](sources/13OKVxg6ecI.md) — 2023-08-17 · Tim Gabe teaches Framer components by rebuilding a Netflix-style movie carousel.
+- [Card Layouts in Framer (Grid Tutorial)](sources/udTGvssp-h8.md) — 2023-08-10 · Tim Gabe builds a responsive card layout in Framer in about 3 minutes.
+- [Framer Breakpoints in 7 Minutes (Beginner Tutorial)](sources/rEjd7QRxtDY.md) — 2023-08-03 · Tim Gabe makes a desktop layout responsive in Framer.
+- [Master Stacks, Position & Sizing (Framer For Beginners)](sources/GVxFxyHNy_o.md) — 2023-07-27 · Tim Gabe explains layout in Framer for beginners.
+- [Award Winning Website in Framer (Loop Effect Tutorial)](sources/tBOazoVzBNk.md) — 2023-07-20 · Tim Gabe recreates the hero section of Hannah's award-winning portfolio site in Framer in under five minutes.
+- [Get Started: Figma Variables in 3 Minutes](sources/XnI-WbMCDyw.md) — 2023-06-29 · Tim Gabe gives a 3-minute intro to Figma Variables.
+- [I used Framer AI to create a website… in 5 minutes](sources/U2EVNlDzAJQ.md) — 2023-06-13 · Tim Gabe tests Framer AI, which makes a website from a text prompt.
+- [Master Carousels in Framer (Slideshow, Ticker & Carousel)](sources/nS_9yAABLwc.md) — 2023-06-01 · Tim Gabe explains Framer's three scrolling components: Ticker, Carousel and Slideshow.
+- [Create Any Carousel in Figma (Beginner Tutorial)](sources/L-VwAxJ9hnY.md) — 2023-05-18 · Tim Gabe shows four ways to prototype a carousel in Figma: basic scroll, on drag, on click and automatic.
+- [Designers Are Leaving Webflow... Here's Why](sources/NT8w5ZS13ao.md) — 2023-05-11 · Tim Gabe gives four reasons why designers move from Webflow to Framer for building websites: the learning curve, who the tool is for, the…
+- [Complete Website in Framer: Beginner Tutorial](sources/PYskozIWh-E.md) — 2023-05-04 · Tim Gabe builds a responsive, animated marketing website in Framer from scratch in about 30 minutes.
+- [The Secret Trick For Amazing Animations in Figma](sources/bdR3p6PvYQQ.md) — 2023-04-27 · Tim Gabe explains spring animations in Figma prototypes and compares them with Bézier curves.
+- [The UI/UX Wireframe Hack Schools Don't Teach](sources/40UAK-LKheA.md) — 2023-04-20 · Tim Gabe argues that traditional low-fidelity wireframes are overrated for landing pages, which are usually simple.
+- [Make Your Figma Scroll Animation Real in 4 Minutes (Using Framer)](sources/7drmXMS8Jj8.md) — 2023-04-13 · Tim Gabe shows how to turn a Figma parallax prototype into a live website animation in Framer.
+- [4 Easy Tips For Stunning Landing Pages (Figma Tutorial)](sources/cocnZubvfFE.md) — 2023-04-06 · Tim Gabe argues that strong landing pages rely on four simple tricks.
+- [Master Figma's Sticky Scroll in 4 Minutes](sources/s_GRc42EjNU.md) — 2023-03-30 · Tim Gabe shows how to build a sticky-scroll prototype in Figma in three steps.
+- [6 Stunning Websites For UI/UX Inspiration](sources/evhZQg2NHfo.md) — 2023-03-23 · Tim Gabe reviews six websites for design ideas, on desktop and then on mobile.
+- [Splash Screen Animation in 6 Minutes (Figma Tutorial)](sources/s19_n6rcXIY.md) — 2023-03-16 · Tim Gabe shows how to build an animated splash screen for a mobile app in Figma in about 6 minutes.
+- [I Redesigned Midjourney’s Landing Page in 19 Minutes (Without AI)](sources/_n39rxieClg.md) — 2023-03-09 · Tim Gabe gives himself 20 minutes to redesign and animate the Midjourney landing page in Figma.
+- [Your First Design System in Figma (Beginner Tutorial)](sources/_uva2dQPlV8.md) — 2023-03-02 · Tim Gabe builds the base of a design system in Figma with the atomic design method.
+- [5 Figma Workflow Tips For UI Beginners](sources/GDjxXRLHEg4.md) — 2023-02-23 · Tim Gabe gives five Figma habits that save beginners time.
+- [3 Award Winning Website Animations (Figma Tutorial)](sources/NfqdWTfNYKI.md) — 2023-02-16 · Tim Gabe rebuilds three scroll animations from award-winning websites in Figma, using Smart Animate.
+- [Parallax Scroll Animation in 6 Minutes (Figma Tutorial)](sources/GVUchbe86HE.md) — 2023-02-09 · Tim Gabe shows how to prototype a parallax scroll effect in Figma in two steps.
+- [How to Recreate Amazing Text Animations in Figma](sources/0Lhu6kYOCx0.md) — 2023-02-02 · Tim Gabe shows how to rebuild three common web text animations in Figma: a domino reveal, an elevator flip and a masked swap.
+- [5 Most Useful Figma Animations For UI Beginners](sources/2Mvmz34QsLQ.md) — 2023-01-26 · Tim Gabe shows five Figma prototype animation techniques for beginners: click, hover, drag, delayed and overlay.
+- [Responsive Design in Figma (Crash Course 2023)](sources/tJCv91c6Krk.md) — 2023-01-20 · Tim Gabe shows how to make one hero section responsive in Figma across desktop, tablet and mobile.
+- [Export Figma Text & Color Styles To Framer](sources/TWumjDt_cZg.md) — 2023-01-05 · Tim Gabe shows his workflow to move text and color styles from Figma into Framer.
+- [From Figma to Framer (Get Started in 28 Minutes)](sources/XLWXztyA80Q.md) — 2022-12-29 · Tim Gabe walks Figma users through the Framer editor panel by panel.
+- [4 Tricks for Best Figma to Framer Export](sources/AJBaBScKdwI.md) — 2022-12-22 · Tim Gabe gives four tricks to move a design from Figma to Framer with no rework.
+- [Fancy Button Hovers For Figma Beginners in 2023](sources/oNhOh-e21Xg.md) — 2022-12-15 · Tim Gabe shows a short way to build a button hover effect in Figma.
+- [These 5 mistakes will RUIN your UI/UX portfolio](sources/j0KT9yaa-NI.md) — 2022-12-08 · Tim Gabe lists five portfolio mistakes that stop designers from getting interviews.
+- [Figma in 20 Minutes (For Beginners in 2023)](sources/blDSmD5I61s.md) — 2022-12-01 · Tim Gabe gives a 20-minute beginner tour of Figma.
+- [6 UI Hacks I Wish I Knew As A Beginner](sources/88XxC0_zs74.md) — 2022-11-24 · Tim Gabe gives six practical rules for text and spacing in UI layouts.
+- [Become A Self Taught UI/UX Designer in 2023](sources/lgE0ULApU4E.md) — 2022-11-18 · Tim Gabe gives a five-step path to a UI/UX design job without design school.
+- [The UI Design Skill You Need When AI Takes Over](sources/IaFrUED28mo.md) — 2022-11-10 · Tim Gabe asks whether UI designers will lose their jobs to AI, at the time of DALL-E 2 and Midjourney (2022-11).
+- [How To Animate Like After Effects in Figma](sources/nyyuyPSxqww.md) — 2022-11-03 · Tim Gabe argues that Figma's Smart Animate can replace Adobe After Effects for most motion work by UI designers.
+- [Steal This Landing Page Hero Workflow (Figma Tutorial)](sources/m3NjcBDqFnA.md) — 2022-10-27 · Tim Gabe shows a four-step workflow to design a landing page hero section in Figma: message, desired outcome, inspiration and design.
+- [How To Create Gradients in Figma (Linear, Radial, Angular, Diamond)](sources/BASF9O2_AFo.md) — 2022-10-20 · Tim Gabe explains the four gradient types in Figma: linear, radial, angular and diamond.
+- [How To Create Mesh Gradients in Figma (Beginner Tutorial)](sources/eZ3Rql0yhCw.md) — 2022-10-13 · Tim Gabe shows how to build a mesh, or aurora, gradient in Figma in three steps plus an optional fourth.
+- [Glassmorphism Effect in Figma (3 Min Tutorial)](sources/NDF834BAeK0.md) — 2022-10-06 · Tim Gabe shows how to add a glassmorphism effect to a card component in Figma in about 3 minutes.
+- [Figma to Website in MINUTES with this INSANE tool…](sources/0SzJOMS0RPA.md) — 2022-09-29 · Tim Gabe shows how to turn a Figma design into a live, responsive website with Framer Sites.
+- [New Figma Component Properties (Great Beta Update)](sources/XEVzFakovu8.md) — 2022-09-21 · Tim Gabe shows three beta updates to Figma component properties from September 2022.
+- [15 Figma Shortcuts You Need to Know About](sources/zFGG0tyLJtI.md) — 2022-09-15 · Tim Gabe shows 15 Figma keyboard shortcuts in about 6 minutes.
+- [Apple's Dynamic Island Animation in Figma (Beginner Tutorial)](sources/dL-U6bkm0a0.md) — 2022-09-09 · Tim Gabe rebuilds the animation of Apple's Dynamic Island in a Figma prototype in about 10 minutes.
+- [Animated Dropdown Menu with Variants in Figma (2022 Update)](sources/WgbiGtPVm8Q.md) — 2022-09-08 · Tim Gabe shows how to build an animated, interactive dropdown menu in Figma in 3 steps.
+- [Master Responsive Grids (Rows & Columns) in Figma](sources/sybtdc4dYzE.md) — 2022-09-01 · Tim Gabe shows how to set up layout grids in Figma.
+- [You'll Regret Not Using the 8pt Grid in Figma (UI/UX Beginner)](sources/ohF93_k3IMk.md) — 2022-08-26 · Tim Gabe explains the 8-point (and 4-point) grid in a Figma tutorial.
+- [9 SECRETS To Beautiful Landing Page Design (Pt. 3: Desktop Workflow)](sources/vBuyR8uF380.md) — 2022-08-20 · Tim Gabe shows his full Figma workflow for a desktop landing page, part 3 of his "9 Secrets" series.
+- [9 SECRETS To Beautiful Landing Page Design (Pt. 2: Guiding Principles)](sources/cmSBbnrFGPg.md) — 2022-08-11 · Part 2 of Tim Gabe's landing-page series sets the base rules before any design work in Figma.
+- [Figma Interactive Components For Beginners (2022 Tutorial)](sources/eeGVBhZURUI.md) — 2022-08-04 · Tim Gabe shows how to build interactive components in Figma.
+- [Advanced Smart Animate in Figma (Carousel, Loader & More)](sources/RqxI6aODugE.md) — 2022-07-28 · Tim Gabe builds a multi-step animation in Figma on an iPhone 13 Pro frame (390px wide).
+- [Figma Smart Animate for Beginners (2022 Tutorial)](sources/thplNeqE9Tg.md) — 2022-07-21 · Tim Gabe explains Figma's Smart Animate prototype transition.
+- [Master Figma Pen Tool in 6 Minutes (Beginner Tutorial)](sources/d78yo84tnfA.md) — 2022-07-14 · Tim Gabe gives a 6-minute beginner tutorial on the Figma pen tool.
+- [Masking in 4 Minutes (Figma Tutorial)](sources/KamNFblohHc.md) — 2022-07-06 · Tim Gabe shows the two ways to mask in Figma: image fills and regular masks.
+- [Figma Component Properties Made Simple (Variants, Boolean, Text)](sources/iaQ30m6gqhw.md) — 2022-06-29 · Tim Gabe explains the four Figma component properties in under 10 minutes: variants, instance swap, text and boolean.
+- [The 8 Most Underrated Figma Plugins in 2022](sources/fJ36mS1NYDM.md) — 2022-06-23 · Tim Gabe demos eight Figma plugins that he says few designers talk about.
+- [Figma Constraints & Resizing Made SIMPLE](sources/3xGJ80UpVeM.md) — 2022-06-12 · Tim Gabe gives a 10-minute beginner tutorial on Figma constraints.
+- [9 SECRETS to BEAUTIFUL Landing Page Design (Pt. 1: The Setup)](sources/RdHXcv1k_Dg.md) — 2022-06-06 · Tim Gabe opens a four-part Figma series on landing page design with the first three of nine "secrets".
+- [Master Figma Auto Layout in 10 Minutes (2022 Tutorial)](sources/Kf8L3CeiWzQ.md) — 2022-05-29 · Tim Gabe explains Figma auto layout, the Figma version of the CSS flexbox model.
+- [Hey! I'm Tim, and I'm here to teach you some design.](sources/N0vlBuMggKc.md) — 2022-05-22 · This is the first video on Tim Gabe's channel, about two minutes long.

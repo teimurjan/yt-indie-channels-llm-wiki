@@ -1,0 +1,252 @@
+---
+type: index
+title: People index
+updated: 2026-10-26
+---
+
+# People index
+
+- [Aaron Spivak](people/aaron-spivak.md) — Aaron Spivak is the Toronto co-founder of Hush Blankets, which went from $0 to $48M in sales in 48 months.
+- [Abhishek](people/abhishek.md) — Abhishek is the solo founder of Youform, a cheaper Typeform alternative that he built by "finding the gap" in a popular tool.
+- [Adam Lyttle](people/adam-lyttle.md) — Adam Lyttle is an Australian indie app maker who went from $200K in debt to a portfolio of small iOS apps making $50K to…
+- [Adrian Horning](people/adrian-horning.md) — Adrian Horning is a solo Node.js developer from Austin who built Scrape Creators, a social media scraping API.
+- [Alejandro](people/alejandro.md) — Alejandro is the European co-founder of Pushscroll, an app that blocks social media until the user does push-ups.
+- [Alex](people/alex.md) — Alex is a co-founder that three sources name by first name only.
+- [Alex Finn](people/alex-finn.md) — Alex Finn is a former MongoDB consultant who built Creator Buddy, an AI content coach for X, alone with AI coding tools.
+- [Alex Garcia](people/alex-garcia.md) — Alex Garcia runs Marketing Examined and four sister newsletters, all paid for by ad sponsors.
+- [Alex Goldberg](people/alex-goldberg.md) — This page collects what the sources say about Alex Goldberg, who runs the product review site FinvsFin.
+- [Alex Lieberman](people/alex-lieberman.md) — Alex Lieberman is the co-founder of Morning Brew who now builds a holding company of small bootstrapped businesses.
+- [Alex Pattis](people/alex-pattis.md) — Alex Pattis runs a startup investing syndicate as a side project next to a full-time startup job.
+- [Alfie Dickens](people/alfie-dickens.md) — Alfie Dickens ran the influencer program at Cal AI and grew it to more than 200 creators posting at once.
+- [An](people/an-nayal.md) — An Nayal is the founder of Flame, a couples app that grew on organic TikTok from a farm of phones.
+- [Andre Haykal Jr.](people/andre-haykal-jr.md) — Andre Haykal Jr. is the founder of ListKit, a B2B lead-list SaaS for cold email.
+- [Andy Cloke](people/andy-cloke.md) — Andy Cloke is a solo founder in London who built Data Fetcher, an Airtable extension that pulls data from any API.
+- [Angus Cheng](people/angus-cheng.md) — Angus Cheng is a developer in Hong Kong who runs Bank Statement Converter alone.
+- [Ania Wysocka](people/ania-wysocka.md) — Ania Wysocka is a non-technical founder who built Rootd, an iPhone app for panic attack and anxiety relief, after her own panic attack at…
+- [Anton](people/anton.md) — Anton is the founder of Letterly, a paid speech-to-text writing app, after 15 years of failed startups.
+- [Asher Hurstman](people/asher-hurstman.md) — Asher Hurstman is a co-founder of Clear 30, a science-based app that helps people quit or cut down on weed.
+- [Assia Poloni](people/assia-poloni.md) — Assia Poloni is the Chief Product Officer of Welltory, an Apple Watch app that shows people what drains their energy.
+- [Avneesh](people/avneesh.md) — Avneesh is a former big-tech engineer who built Savewise, a tool that helps people stack credit card points, miles and cashback, and grew it…
+- [Ayush](people/ayush.md) — Ayush is the marketing co-founder of Elephas, a Mac AI assistant that he grew with Reddit and then SEO.
+- [Ben Bozzay](people/ben-bozzay.md) — Ben Bozzay is a software developer who built Tech Lockdown, a website and app blocker for adults.
+- [Ben Leavitt](people/ben-leavitt.md) — Ben Leavitt runs FollowBuddy, a subscription app that shows who unfollowed you on Instagram, and grows it only through search videos.
+- [Benjamin Chen](people/benjamin-chen.md) — Benjamin "Benji" Chen is a 20-year-old NYU student who built more than 45 apps in about a year, then focused on Snag, an iOS…
+- [Bhanu](people/bhanu.md) — Bhanu is a solo developer from India who built SiteGPT, an AI website chatbot, and grows it with free tools that rank on Google.
+- [Blaine Bolus](people/blaine-bolus.md) — Blaine Bolus is a co-founder of Castmagic, an AI tool that turns podcasts and video into written content, and a co-host of DTC Pod.
+- [Blake Anderson](people/blake-anderson.md) — Blake Anderson is a self-taught iOS app founder who built or co-founded Rizz GPT, Umax and Cal AI.
+- [Bohdan Drozdov](people/bohdan-drozdov.md) — Bohdan "Bo" Drozdov is the marketing and business co-founder of Savvy Nomad, a tax-domicile service for US citizens who live abroad.
+- [Braylin](people/braylin.md) — Braylin is a college sprinter who co-founded 3AK, a track and field app, with no coding experience.
+- [Brett Bauman](people/brett-bauman.md) — Brett Bauman is a former Loom employee who co-founded Coconote, an AI note-taker for college students that sold to Quizlet.
+- [Brett Williams](people/brett-williams.md) — Brett Williams is a self-taught designer who runs DesignJoy, a one-person design subscription.
+- [Brian Shin](people/brian-shin.md) — Brian Shin is the co-founder of Once, a disposable camera app for weddings and parties, which he built with his girlfriend (source, 0:56).
+- [Caleb Dean](people/caleb-dean.md) — Caleb Dean is an app founder who sold his ranked running app Runafy after 26 days of revenue.
+- [Canyon](people/canyon.md) — Canyon is a co-founder of Sideshift, a marketplace where college students and creators take UGC jobs for apps.
+- [Cardinal Mason](people/cardinal-mason.md) — Cardinal Mason is a self-taught copywriter who went from freelance copy to an email agency and the Copy MBA program.
+- [Casper](people/casper.md) — Casper is a finance and side-hustle creator with about 9M followers and the 50/50 distribution co-founder of Payout.
+- [Cedric Roberge](people/cedric-roberge.md) — Cedric Roberge is a University of Oregon student who built Pep AI, a tracker for peptide and GLP-1 users (source, 1:25).
+- [Charlie Chang](people/charlie-chang.md) — Charlie Chang is a finance YouTuber who runs six YouTube channels and Paired, an overseas staffing company.
+- [Charlie Clark](people/charlie-clark.md) — Charlie Clark is a former Squarespace engineer who built Liinks, a link-in-bio and simple website tool, into a solo micro-SaaS.
+- [Chris](people/chris.md) — This page covers two founders named Chris, each from one Starter Story video.
+- [Christian](people/christian.md) — Christian is a college sprinter who co-founded 3AK, an all-in-one track and field app, with Braylin (source, 0:00).
+- [CJ Zafir](people/cj-zafir.md) — CJ Zafir is the founder of CodeGuide, a tool that writes project docs for AI coding tools.
+- [Cole](people/cole.md) — Cole is a Roblox game developer in Austin, Texas, and one of the top 50 Roblox developers.
+- [Colin McIntosh](people/colin-mcintosh.md) — Colin McIntosh is a former recruiter who founded the bedding brand Sheets & Giggles and the AI resume builder Sheets Resume.
+- [Connor Burd](people/connor-burd.md) — Connor Burd is a young indie app developer who builds consumer apps with AI and grows them through creator partners.
+- [Dan](people/dan.md) — Dan is the founder of Massive, a "Tinder for jobs" app where AI fills out job applications.
+- [Dan Kwon](people/dan-kwon.md) — Dan Kwon is a former social media creator who grows consumer apps with organic short-form video.
+- [Daniel Heintzman](people/daniel-heintzman.md) — Daniel Heintzman is a product designer who co-founded Sway AI and became Head of Product at Cal AI.
+- [Danny Miranda](people/danny-miranda.md) — Danny Miranda is the host of the Danny Miranda Podcast, which he started in his parents' basement in 2020.
+- [David](people/david.md) — David is a non-technical founder who, with his brother Daniel, built the AI app builder Shipper.
+- [David Attias](people/david-attias.md) — David Attias is a former quant trader from France who cloned a proven app with Cursor and built Stoppr, a sugar-craving app.
+- [David Bressler](people/david-bressler.md) — David Bressler built Formula Bot, an AI tool for Excel formulas and data analysis, on Bubble with no code.
+- [David Park](people/david-park.md) — David Park is the co-founder and CEO of Jenni AI, an AI research and writing tool for students and researchers.
+- [Dawson Botsford](people/dawson-botsford.md) — Dawson Botsford is a former Uber engineer who built Earni.fi, an Ethereum airdrop finder, and sold it to Bankless.
+- [Dawson Gibbs](people/dawson-gibbs.md) — Dawson Gibbs is the founder of Evo Marketing, a UGC agency, and was an early face of Cal AI's content.
+- [Denis Yurchak](people/denis-yurchak.md) — Denis Yurchak is a solo founder who built Yadaphone, a web dialer for cheap international calls, after the Skype shutdown news.
+- [Deven Bhooshan](people/deven-bhooshan.md) — Deven Bhooshan is an indie hacker from India and co-founder of SuperGrow, an AI tool for writing LinkedIn posts.
+- [Dickie Bush](people/dickie-bush.md) — Dickie Bush is a former BlackRock trader who built a portfolio of four online writing businesses.
+- [Diego](people/diego.md) — Diego is the solo founder of App Alchemy, an AI tool for mobile app design.
+- [Dillion Verma](people/dillion-verma.md) — Dillion Verma co-built Halo AI, an AI photo editor that reached $300K MRR in 45 days on mass UGC.
+- [Dmitri](people/dmitri.md) — Dmitri built and sold YourMove AI, an AI dating assistant, as a side project while he was a data science manager at Opendoor.
+- [Dmytro Krasun](people/dmytro-krasun.md) — Dmytro Krasun is a former backend developer who built ScreenshotOne, an API that automates website screenshots.
+- [Domenico Gagliardi](people/domenico-gagliardi.md) — This page collects what the sources say about Domenico Gagliardi ("Dom"), a non-technical founder who builds and sells small AI products.
+- [Drew Levin](people/drew-levin.md) — Drew Levin is a co-founder of SideShift, a marketplace that supplies UGC creators and campaign managers to consumer apps.
+- [Dustin Stout](people/dustin-stout.md) — Dustin Stout is a non-developer founder who built Magai, a paid chat app that gives access to many AI models in one subscription.
+- [Dylan Jardon](people/dylan-jardon.md) — Dylan Jardon is a co-founder of Clipt, an animation and video editing agency, and of Smart Nonsense, an animated YouTube Shorts brand.
+- [Erikas](people/erikas.md) — Erikas is a Lithuanian designer in Paris who co-founded the Kaching Shopify apps with a developer.
+- [Ethan](people/ethan.md) — Ethan is a 19-year-old former national wrestling champion who built CutCoach, a weight-cut app for combat sport athletes.
+- [Eunice Lie](people/eunice-lie.md) — Eunice Lie is a 20-year-old college student and startup marketer who went viral by posting her Hinge chats about her startup.
+- [Evan Yadegari](people/evan-yadegari.md) — Evan Yadegari is a 14-year-old founder who built Locked, a gamified habit and focus app, and the younger brother of Cal AI founder Zach…
+- [Evgeniy Mikholap](people/evgeniy-mikholap.md) — Evgeniy Mikholap is a co-founder of Natural Write, an AI text humanizer that made $100K in 90 days from self-filmed TikToks.
+- [Eyal Hazan](people/eyal-hazan.md) — Eyal Hazan is a college student who co-founded Prop GPT, a sports betting analytics app, with Yahli Hazan.
+- [Fernando](people/fernando.md) — This page collects what the sources say about Fernando, a solo founder who runs two freemium AI tools.
+- [Florian Vates](people/florian-vates.md) — Florian "Flo" Vates is a German iOS developer and former mobile UX lead.
+- [Florin Pop](people/florin-pop.md) — Florin Pop is a developer and content creator.
+- [Frank Smith](people/frank-smith.md) — This page collects what the sources say about Frank Smith, a sports creator who built the web game GeoSports.
+- [Gaurabh Mathure](people/gaurabh-mathure.md) — Gaurabh Mathure is a product designer who built 72 apps in 60 days for $0, then made about $6,500 in the Starter Story Challenge…
+- [Gaurav](people/gaurav.md) — Gaurav is an Australian founder who built Fastlane, an AI short-form content tool, on about 2,000 customer calls.
+- [George](people/george.md) — George is a non-technical former wrestler who runs three AI sports apps: Wrestle AI, Brawler and AbMaxx.
+- [George Lampropoulos](people/george-lampropoulos.md) — George Lampropoulos is an 18-year-old college freshman who cannot code and built the AI wrestling coach app Wrestle AI.
+- [Gil Hildebrand](people/gil-hildebrand.md) — Gil Hildebrand is a repeat founder who built Subscribr, a bootstrapped AI scriptwriting tool for YouTube creators.
+- [Greg Isenberg](people/greg-isenberg.md) — Greg Isenberg is a serial founder who runs Late Checkout, a holding company of community-led businesses.
+- [Guillaume Moubeche](people/guillaume-moubeche.md) — Guillaume Moubeche is the founder of lemlist, a cold email tool that he started with $1,000 and grew to $30M ARR.
+- [Hassam](people/hassam.md) — Hassam is a non-technical founder and Amazon seller who built Launch Fast, an AI product research tool, and launched it through a partner.
+- [Henry](people/henry.md) — Henry is a technical co-founder who appears in two sources.
+- [Henry Belcaster](people/henry-belcaster.md) — Henry Belcaster co-founded Clipt, an animation and video editing agency, and Smart Nonsense, an animated YouTube Shorts brand.
+- [Hunter Hammonds](people/hunter-hammonds.md) — Hunter Hammonds is a founder who runs Assembly, a studio that launches creator-led productized services.
+- [Hunter Isaacson](people/hunter-isaacson.md) — Hunter Isaacson is a consumer app builder behind NGL, Wink and the crypto app Bags.
+- [Ian](people/ian.md) — Ian is a young Roblox game developer in Austin who made Bathe the Baby over a college winter break and dropped out on its…
+- [Ian Myers](people/ian-myers.md) — Ian Myers is the founder and CEO of Oceans, an offshore staffing company that grew to about $15M in revenue with no outside money.
+- [Iuliia Shnai](people/iuliia-shnai.md) — Iuliia Shnai is the co-founder of Papermark, an open-source DocSend alternative she runs with her husband Marc Seitz.
+- [Ivan](people/ivan.md) — Ivan is a co-founder, with Nick, of an agency that markets apps through automated Instagram comments posted from branded accounts.
+- [Ivan Nedlekovski](people/ivan-nedlekovski.md) — Ivan Nedlekovski is a founder from Macedonia who runs a software agency and built Lancer, an AI agent that bids on Upwork jobs.
+- [Jack](people/jack.md) — This page covers two founders named Jack.
+- [Jack Friks](people/jack-friks.md) — Jack Friks is a bootstrapped solo founder who builds consumer apps and the social scheduler Post Bridge, and grows them with organic short-form video.
+- [Jack Sweeney](people/jack-sweeney.md) — Jack Sweeney is a content creator and no-code builder who co-founded the breathwork app Coherence with his brother Nick.
+- [Jacky Chou](people/jacky-chou.md) — Jacky Chou is an SEO founder who runs about 13 small internet businesses, led by the agency Indexsy and the SaaS Local Rank.
+- [Jacob Seeger](people/jacob-seeger.md) — Jacob Seeger is a former musician who built Faceless Video, a no-code SaaS on Bubble that runs faceless social media channels on autopilot.
+- [Jake](people/jake.md) — Jake is a first name that two sources use for two different founders: the owner of a Roblox marketing agency, and a co-founder of…
+- [Jake Castillo](people/jake-castillo.md) — Jake Castillo is a co-founder of Cal AI, where he ran marketing and operations.
+- [Jake Glacer](people/jake-glacer.md) — Jake Glacer is a solo founder who built Erly, an alarm app that turns off only after you do push-ups on camera.
+- [Jay](people/jay.md) — Jay is a former Amazon software engineer who built NomadTable, a meetup app for solo travelers, as a bootstrapped solo founder.
+- [Jay (Bloom)](people/jay-bloom.md) — Jay is the CEO of Bloom, a Gen Z "learn to invest" app.
+- [Jeremy](people/jeremy.md) — Jeremy, known online as "Van Man", runs Vanman, a handmade natural hygiene brand in San Diego.
+- [Jeremy Redman](people/jeremy-redman.md) — Jeremy Redman is a Los Angeles founder who built and sold TaskMagic, a browser automation SaaS.
+- [Joe Popelas](people/joe-popelas.md) — Joe Popelas is a Toronto computer science student who built an AI-written ebook brand sold through Pinterest ads.
+- [Joe Rozek](people/joe-rozek.md) — Joe Rozek is a former Shutterfly engineering manager who built Waitly, a waitlist and reservations app, into a solo business.
+- [John McEvoy](people/john-mcevoy.md) — John McEvoy is a self-taught graphic designer from Scotland who runs Momego, a live bus and train tracking app, on his own.
+- [John Rush](people/john-rush.md) — John Rush is a bootstrapped founder who runs a portfolio of about 26 tools for founders, with about $3M ARR combined.
+- [Jonathan Fishner](people/jonathan-fishner.md) — Jonathan Fishner is a developer and co-founder of ChartDB, an open-source database diagram tool.
+- [Jonathan Parra](people/jonathan-parra.md) — Jonathan Parra is the former lead paywall designer at Superwall, where he designed about 4,000 to 4,500 paywalls.
+- [Jordan Rejaud](people/jordan-rejaud.md) — Jordan Rejaud is a solo, bootstrapped founder who built Parakeet Chat, an AI chatbot and messaging service for people in US prisons.
+- [Josef Buettgen](people/josef-buettgen.md) — Josef Buettgen is a former freelance software engineer and co-founder of Setter AI, an AI appointment setter.
+- [Joseph](people/joseph.md) — Joseph is a self-taught coder in Lakeland, Florida, who built StealthGPT.
+- [Joseph Choi](people/joseph-choi.md) — Joseph Choi is the founder of Consumer Club and the host of the Superwall channel, where he interviews consumer app founders about organic growth…
+- [Joseph Lee](people/joseph-lee.md) — Joseph Lee is the founder of Supademo, an AI tool that makes interactive, clickable product demos.
+- [Josh](people/josh.md) — Josh heads M&A at Blue Throne, a firm that buys and scales consumer apps.
+- [Julian](people/julian.md) — Julian is a developer from Argentina, living in Australia, who co-founded the AI gym workout app Gravl.
+- [Julian Alvarez](people/julian-alvarez.md) — Julian Alvarez is the technical co-founder of Jungle, an AI study app.
+- [Julien Nahum](people/julien-nahum.md) — Julien Nahum is a former software engineer who built NotionForms, a form builder for Notion users.
+- [Jure Sotošek](people/jure-sotosek.md) — Jure Sotošek is a 26-year-old developer who left Microsoft and runs four businesses that make about $60K/month together (2025-04).
+- [Justin](people/justin.md) — Justin is one of three co-founders of Castmagic, an AI tool that turns podcasts, videos and other media into written content (source, 1:04).
+- [Justin Welsh](people/justin-welsh.md) — Justin Welsh runs a one-person knowledge business that sells online courses, newsletter sponsorships and a paid email.
+- [Kaden Henshaw](people/kaden-henshaw.md) — This page collects what the sources say about Kaden Henshaw, a wrestling creator and co-founder of Wrestle AI.
+- [Karl Hughes](people/karl-hughes.md) — Karl Hughes is the Chicago founder of Draft.dev, a technical content service for developer-focused companies.
+- [Karthik Shanadi](people/karthik-shanadi.md) — Karthik Shanadi is a co-founder of four custom apparel brands that started in college with $500.
+- [Katie Keith](people/katie-keith.md) — Katie Keith runs Barn2, a remote team that built 20 WordPress, WooCommerce and Shopify products over 10 years.
+- [KC Holiday](people/kc-holiday.md) — KC Holiday is a former Beverly Hills waiter and bartender who co-founded Qalo, a silicone wedding ring brand.
+- [Kelechi](people/kelechi.md) — Kelechi is a 22-year-old founder from Nigeria who built two consumer apps with $1.5M in total revenue in 12 months.
+- [Ken (Kenneth Law)](people/kenneth-law.md) — Ken (Kenneth Law) is a former Meta engineering manager who left big tech to run Harpagia, a text-based idle RPG.
+- [Kent Yoshimura](people/kent-yoshimura.md) — Kent Yoshimura co-founded NeuroGum, a brand of focus and energy supplements in gum and mints, with his college best friend Ryan Chen (source, 3:28).
+- [Kevin Espiritu](people/kevin-espiritu.md) — Kevin Espiritu is the founder of Epic Gardening, a gardening media brand that grew into a product business.
+- [Kieran](people/kieran.md) — Kieran is a founding team member who runs marketing at StudyFetch, an AI study platform that grew on student TikTok videos.
+- [Koby Conrad](people/koby-conrad.md) — Koby Conrad is the founder of Sunflower, an app that helps people quit addictions, and a former growth lead at Rupa Health.
+- [Kourosh](people/kourosh.md) — Kourosh is a side-project founder who built the dictation app Voicy for his father.
+- [Kyan](people/kyan.md) — Kyan is a 21-year-old computer science student at San Diego State University who built ToneAdapt, a guitar tone app.
+- [Kyle Fowler](people/kyle-fowler.md) — Kyle Fowler is a self-taught iOS developer who builds card-scanner apps for collectors: CardStock for sports cards and Scanemon for Pokemon cards.
+- [Lane Wagner](people/lane-wagner.md) — Lane Wagner is the founder of Boot.dev, a gamified platform for learning back-end development.
+- [Lara Acosta](people/lara-acosta.md) — Lara Acosta is a LinkedIn creator who co-founded Kleo, an AI ghostwriter for founders who post on LinkedIn (source, 0:00).
+- [Leandro Zubrezki](people/leandro-zubrezki.md) — Leandro Zubrezki is a developer in Buenos Aires who built the one-feature add-on Sync2Sheets.
+- [Leor](people/leor.md) — Leor co-founded Hush Blankets, a Toronto weighted blanket brand, with Aaron Spivak.
+- [Lino Leighton](people/lino-leighton.md) — Lino Leighton is an 18-year-old non-technical founder who built AbMaxx, an abs workout app with an "ab scan".
+- [Lots](people/lotts-ezeike.md) — Lots (Lotts Ezeike) is a London founder who builds consumer apps, mostly for Christians.
+- [Louis David](people/louis-david.md) — Louis David is a Canadian developer who built GlowUp, an AI makeup try-on app that made $800K in its first year.
+- [Louis Pereira](people/louis-pereira.md) — Louis Pereira is a part-time indie maker in India who built AudioPen in about 12 hours.
+- [Loïc Berthelot](people/loic-berthelot.md) — Loïc Berthelot is a French founder who builds bootstrapped SaaS tools for ecommerce sellers and grows them through YouTube creators.
+- [Lukas Hermann](people/lukas-hermann.md) — Lukas Hermann is a software developer in Germany who built Stagetimer, a remote-controlled countdown timer for live events.
+- [Maddox](people/maddox.md) — Maddox is a college student who built and sold DuckMath, an "unblocked games" website paid by Google AdSense.
+- [Marc Lou](people/marc-lou.md) — Marc Lou is a French solo founder who ships many small products and is best known for ShipFast, a code boilerplate for launching startups.
+- [Marc Seitz](people/marc-seitz.md) — Marc Seitz is the co-founder of Papermark, an open-source alternative to DocSend, which he runs with his wife Iuliia Shnai.
+- [Marcos Ruiz](people/marcos-ruiz.md) — Marcos Ruiz is a self-described introvert who runs The Birdhouse, a Twitter (X) ghostwriting agency for coaches, consultants and education companies.
+- [Marcus Burke](people/marcus-burke.md) — Marcus Burke is a freelance Meta ads consultant for subscription apps.
+- [Mario](people/mario.md) — This page collects what the sources say about Mario, a co-founder of the app PushScroll.
+- [Mark Vassilevskiy](people/mark-vassilevskiy.md) — This page collects what the sources say about Mark Vassilevskiy, a young designer from Kazakhstan who runs the agency Skale.
+- [Matt Espinoza](people/matt-espinoza.md) — This page collects what the sources say about Matt Espinoza, who runs the organic distribution company Clover Labs.
+- [Matt Giovanisci](people/matt-giovanisci.md) — Matt Giovanisci runs Swim University, a pool and hot tub care education business that made $1M in 2023.
+- [Matt Gittleson](people/matt-gittleson.md) — Matt Gittleson runs the UGC creator program at Jenni AI, which acqui-hired him from his own student startup.
+- [Matt Robinson](people/matt-robinson.md) — Matt Robinson is a former senior software engineer on Meta's AI team who built Live Tourney, a golf tournament web app, on nights and…
+- [Mau Baron](people/mau-baron.md) — Mau Baron is a self-taught app developer.
+- [Mauro Botanes](people/mauro-botanes.md) — Mauro Botanes is a 22-year-old founder who built Symmetry, a gym tracking app for Spanish speakers.
+- [Max](people/max.md) — This page covers two different people named Max: the creator behind Fitted, and an iOS engineer who runs 28 small apps.
+- [Max Hirsch](people/max-hirsch.md) — Max Hirsch is a first-time app founder who built Maxed AI, an AI lifting and health coach, with Claude Code.
+- [Michael Que](people/michael-que.md) — Michael Que is a 20-year-old NYU finance student who built Go Tall, a height prediction app for teens, to about $100K/month.
+- [Mike Hill](people/mike-hill.md) — Mike Hill is an Australian founder who runs a bootstrapped portfolio of B2B SaaS apps built on lifetime deals and SEO.
+- [Milly Tamati](people/milly-tamati.md) — Milly Tamati is the founder of Generalist World, a media and community brand for people who do many different things at work.
+- [Miquel Palet](people/miquel-palet.md) — Miquel Palet ("Mickey") is a Spanish founder who built Late, a social media API for developers.
+- [Morrie Schonfeld](people/morrie-schonfeld.md) — Morrie Schonfeld co-founded Pingo, an AI voice companion for speaking practice in about 20 languages.
+- [Nevo](people/nevo.md) — Nevo is the founder of Postiz, an open-source social media scheduler that he grew from $17K to $143K MRR.
+- [Nic](people/nic-weber.md) — This page covers "Nic", a name that two sources link to the slug nic-weber.
+- [Nick](people/nick.md) — Nick is the first name of two founders in this wiki: one runs an automated Instagram comment agency, and one co-founded SideShift.
+- [Nick Buzz](people/nick-buzz.md) — Nick Buzz is an anonymous designer on X who co-founded Baked, a monthly design subscription agency.
+- [Nick Lawton](people/nick-lawton.md) — Nick Lawton is a co-founder of SideShift, a marketplace where apps run UGC creator campaigns.
+- [Nick Sweeney](people/nick-sweeney.md) — This page collects what the sources say about Nick Sweeney, a breathwork coach and co-founder of the app Coherence.
+- [Nico Jeannen](people/nico-jeannen.md) — Nico Jeannen is a French indie maker who built 17 apps in about a year and sold two of them for $265K.
+- [Nicole](people/nicole.md) — Nicole is a college senior who co-founded four consumer apps in two years, including Glam Up and Sprout.
+- [Nikita Logvinenko](people/nikita-logvinenko.md) — Nikita Logvinenko co-founded Natural Write, an AI "humanizer" that rewrites AI text so it passes AI detectors.
+- [Oliver Brocato](people/oliver-brocato.md) — Oliver Brocato is the founder of Tabs Chocolate, a "sex chocolate" brand that he grew with organic TikTok and no outside money.
+- [Pablo](people/pablo.md) — Pablo is a co-leader of Social, a profitable app studio with 22 apps at $16M annualized revenue.
+- [Pat Walls](people/pat-walls.md) — Pat Walls is the founder and host of Starter Story, a YouTube channel and site of founder case studies, which he sold to HubSpot…
+- [Patrick Stuart-Constant](people/patrick-stuart-constant.md) — Patrick Stuart-Constant runs Social, a profitable app studio, with Pablo.
+- [Paul Millerd](people/paul-millerd.md) — Paul Millerd is a former strategy consultant who quit a $250K job.
+- [Pauline](people/pauline.md) — Pauline is a former IBM data scientist who built AI Crea, an AI home-staging tool.
+- [Paulius Masalskas](people/paulius-masalskas.md) — Paulius Masalskas is a non-technical solo founder who built the influencer database Creator Hunter with AI tools.
+- [Peter](people/peter.md) — Peter is a co-founder of Stronger, a gamified workout tracker from Northern Ireland built by three engineers.
+- [Phoenix Do](people/phoenix-do.md) — Phoenix Do is a consumer app founder in the manifesting and self-help niche who built Copia.
+- [Piotr](people/piotr.md) — Piotr is a Polish tech lead who built Visualizee, an AI rendering tool for architects, on nights and weekends.
+- [Pontus Abrahamsson](people/pontus-abrahamsson.md) — Pontus Abrahamsson co-founded the bootstrapped startup Midday with his friend Victor.
+- [Praneeth](people/praneeth.md) — Praneeth is a builder from India who quit a $250K/year software job and built Rabbit Holes AI, a desktop canvas for branching AI chats.
+- [Presh](people/presh.md) — This page collects what the sources say about Presh, founder of The Wellness Company, a small studio of health apps.
+- [Rafael Kramer](people/rafael-kramer.md) — Rafael Kramer is a teenage founder who started with no-code meme games at 13 and now builds consumer apps.
+- [Ramon Berrios](people/ramon-berrios.md) — Ramon Berrios is a co-founder of Castmagic, an AI tool that turns podcasts and videos into written content, where he runs marketing.
+- [Ramsri Goutham](people/ramsri-goutham.md) — Ramsri Goutham is an app builder in India who runs two AI SaaS apps next to a full-time job.
+- [Rashid Khasanov](people/rashid-khasanov.md) — Rashid Khasanov is a bootstrapped founder who runs three database products for startups and PR: AngelMatch, InvestorHunt and JournalistHunt.
+- [Rasty Turek](people/rasty-turek.md) — Rasty Turek is a former Google engineer and repeat founder who built Vault Air, an encrypted file app that grows through SEO.
+- [Reid Moncada](people/reid-moncada.md) — Reid Moncada is the founder of Fitted, an AI closet app that grew on TikTok through an equity-paid creator.
+- [Rob Hallam](people/rob-hallam.md) — Rob Hallam is a solo founder who builds SuperX and grows it almost entirely through his own X account.
+- [Roger Chen](people/roger-chen.md) — Roger Chen is a consumer social founder who built two apps that hit #1 on the App Store: Lobby and Bro.
+- [Roman Czerny](people/roman-czerny.md) — Roman Czerny is the co-founder of Gojiberry AI, a LinkedIn lead-finding tool he grew with Reddit story posts.
+- [Roman Lakhnyuk](people/roman-lakhnyuk.md) — Roman Lakhnyuk is a non-technical founder who runs Career Hound, a job board that scrapes jobs from company websites.
+- [Ryan Chen](people/ryan-chen.md) — Ryan Chen is a co-founder of NeuroGum, a brand of focus and energy supplements in gum and mints.
+- [Ryan Thorp](people/ryan-thorp.md) — Ryan Thorp ran a portfolio of 30 to 35 acquired consumer apps with over 50M downloads in total.
+- [Ryan Yao](people/ryan-yao.md) — Ryan Yao is a former product designer who built the Pomodoro app Cat on Chair with his girlfriend Stephanie.
+- [Sabba Keynejad](people/sabba-keynejad.md) — Sabba Keynejad is a co-founder of VEED, a browser video editor that grew to $40M in revenue after Y Combinator rejected it twice.
+- [Saeed Ezzati](people/saeed-ezzati.md) — Saeed Ezzati is a software engineer who runs Superpower ChatGPT, a browser extension that adds features to ChatGPT, on his own.
+- [Sam Adeniyi](people/sam-adeniyi.md) — Sam Adeniyi is a university student with no coding background who vibe coded Algrow, a SaaS for finding viral short-form formats.
+- [Sam Parr](people/sam-parr.md) — Sam Parr is a serial entrepreneur and podcast host who started the newsletter The Hustle.
+- [Samuel Rondot](people/samuel-rondot.md) — Samuel Rondot is a former optician who runs three SaaS products that copy proven tools.
+- [Sarah Pearl](people/sarah-pearl.md) — Sarah Pearl ("Hot High Priestess") is a creator with millions of followers who vibe-coded Stella, an AI manifestation app.
+- [Scott Millard](people/scott-millard.md) — Scott Millard is a former freelance video editor who runs a productized service that makes short video ads for B2B SaaS.
+- [Sebastian Ghiorghiu](people/sebastian-ghiorghiu.md) — Sebastian Ghiorghiu is a former money YouTuber with nearly 1M subscribers who built the SaaS app Atlas without promoting it to his audience.
+- [Sebastian Röhl](people/sebastian-rohl.md) — Sebastian Röhl is a solo developer in Germany who built HabitKit, a habit tracker for iOS and Android.
+- [Shaan Arora](people/shaan-arora.md) — Shaan Arora is the co-founder and CEO of Alia, a bootstrapped SaaS that sells email capture pop-ups to e-commerce brands.
+- [Shervin](people/shervin.md) — Shervin is a tech, gadget and fitness YouTuber who runs the channel Shervin Shares and earns mostly from affiliate links.
+- [Steph France](people/steph-france.md) — Steph France is a marketer who teaches the "gold mining framework", a way to go from no idea to a landing page with AI…
+- [Steve Hoyek](people/steve-hoyek.md) — Steve Hoyek is the co-founder of Journable, an AI calorie counter that makes most of its revenue on Android.
+- [Steve Young](people/steve-young.md) — Steve Young runs App Masters, buys apps with organic App Store traffic and weak monetization, and teaches ASO.
+- [Steven Cravotta](people/steven-cravotta.md) — Steven Cravotta is a mobile app founder.
+- [Thatcher Kloff](people/thatcher-kloff.md) — Thatcher Kloff is a co-founder of Clear 30, a science-based app to quit or cut down on weed.
+- [Thomas Frank](people/thomas-frank.md) — Thomas Frank is a productivity YouTuber who sells premium Notion templates through a small niche channel and an email list.
+- [Thomas Mahony](people/thomas-mahony.md) — Thomas Mahony is a former IT admin who built Pckgr, a bootstrapped tool that deploys apps to Microsoft Intune in one click.
+- [Thomas Sanlis](people/thomas-sanlis.md) — Thomas Sanlis is a solo founder who launched over 30 failed projects before Uneed, a Product Hunt alternative, worked.
+- [Thomas Smale](people/thomas-smale.md) — Thomas Smale is the founder of FE International, an M&A firm that sells online businesses.
+- [Tibo](people/tibo.md) — Tibo is a French founder who built and sold Tweet Hunter and Taplio and now runs a portfolio of SaaS products.
+- [Tim Gabe](people/tim-gabe.md) — Tim Gabe is a product designer and YouTuber who runs the app design agency ZipSnap and teaches UI, UX and app psychology.
+- [Tim Stoddart](people/tim-stoddart.md) — Tim Stoddart is the founder of the SEO agency Stuzzi and a holding company that owns Recovery Local and Copyblogger.
+- [Timo](people/timo-nikolai.md) — Timo is a founder who appears in two sources: as Timo Nikolai, co-founder of Setter AI, and as Timo, maker of the Chart Detector…
+- [Tom Holliday](people/tom-holliday.md) — Tom Holliday is an Australian founder who built Avenue, a booking and inquiry widget for trades, with his brother.
+- [Tomer](people/tomer.md) — Tomer is an Israeli marketer who built Cal Buddy, a Hebrew AI calorie tracker modeled on Cal AI.
+- [Umberto Mezzadra](people/umberto-mezzadra.md) — Umberto Mezzadra is the founder of Floga, a yoga app that made over $120K in 24 hours from a lifetime-deal pre-launch.
+- [Vadim Strizheus](people/vadim-strizheus.md) — Vadim Strizheus is a 19-year-old solo founder with no coding background who built the AI video clipping tool Vugola.
+- [Vahe Baghdasaryan](people/vahe-baghdasaryan.md) — Vahe Baghdasaryan runs Tangent Growth, which designs and tests paywalls for subscription apps.
+- [Vasco](people/vasco.md) — Vasco is the co-founder of Arvow, an AI SEO writer that grew mostly through YouTube.
+- [Vikash Prajapat](people/vikash-prajapat.md) — Vikash Prajapat is a former Photoshop freelancer from India who built BulkMockup, a Photoshop plugin for bulk print-on-demand mockups.
+- [Will Baker](people/will-baker.md) — Will Baker is a UK designer who clones proven iOS app categories with better design, grows them with AI-made TikTok ads, and sells them.
+- [Will Cannon](people/will-cannon.md) — Will Cannon is a bootstrapped founder who built UpLead and Signaturely by copying markets that already had product-market fit.
+- [Yahli Hazan](people/yahli-hazan.md) — Yahli Hazan is a college student who co-founded Prop GPT, a sports betting analytics app, with Eyal Hazan.
+- [Yasser Elsaid](people/yasser-elsaid.md) — Yasser Elsaid is a solo, unfunded founder who built Chatbase, a tool for building a ChatGPT-style chatbot on a business's own data.
+- [Yev](people/yev.md) — Yev is head of growth at Sizzle AI, a former data scientist, and runs over 10 faceless YouTube Shorts channels.
+- [Yiannis](people/yiannis.md) — Yiannis is a machine learning scientist who runs organic TikTok for consumer apps.
+- [Zac Cherin](people/zac-cherin.md) — Zac Cherin is the co-founder of Hiro Analytics, a reporting platform for email and SMS marketing agencies.
+- [Zach Yadegari](people/zach-yadegari.md) — Zach Yadegari is the CEO and co-founder of Cal AI, an AI calorie-tracking app that sold in 2026.
+- [Zack Hargett](people/zack-hargett.md) — Zack Hargett is a former Loom employee who co-founded Coconote with Brett Bauman and ran its creator team.
+- [Zuhair Lani](people/zuhair-lani.md) — Zuhair Lani is the founder of Double Speed, an a16z Speedrun startup that makes AI slideshow content and posts it to TikTok from a…
