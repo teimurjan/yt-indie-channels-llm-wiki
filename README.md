@@ -1,10 +1,20 @@
-# yt-captions
+# yt-indie-channels-llm-wiki
+
+This repository has two parts. The `yt-captions` tool in `src/` downloads the transcripts of YouTube channels about indie businesses. The `wiki/` folder is an LLM wiki: a set of linked Markdown pages that an LLM writes from the transcripts and keeps current.
+
+## Wiki
+
+Start at [`wiki/index.md`](wiki/index.md). It links the catalogs of businesses, people and sources, and lists every topic and saved answer. [`CLAUDE.md`](CLAUDE.md) is the wiki schema. It gives the page conventions and the ingest, query and lint workflows.
+
+The wiki cites the transcripts in `data/`. Git does not track `data/`, so you must run `pnpm yt fetch` to get the transcripts on a new machine.
+
+## yt-captions
 
 This command-line tool uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download the metadata and captions of all videos on a YouTube channel. It writes one Markdown file per video. It keeps the raw yt-dlp files on disk, so you can change the Markdown format later and render again without network access.
 
 The tool does not use the YouTube Data API or a paid transcript service.
 
-## Install
+### Install
 
 You need Node.js 22.12 or later, pnpm, and yt-dlp.
 
@@ -26,7 +36,7 @@ YouTube needs a JavaScript runtime to solve its challenges. yt-dlp enables only 
 
 If yt-dlp prints a warning about a missing impersonate target, install the `curl-cffi` extra: `uv tool install --force "yt-dlp[default,curl-cffi]"`.
 
-## Usage
+### Usage
 
 ```sh
 pnpm yt fetch <channel> [--limit N] [--since YYYY-MM-DD] [--lang en] [--include-streams]
@@ -56,23 +66,23 @@ Before each command, the tool runs `yt-dlp --version` and prints the version. If
 
 At the end of `fetch`, the tool prints a summary. The summary shows the count of each status and the hours of video in this run. It also lists each failure with its reason. If a video failed, the exit code is 1.
 
-### Run it again safely
+#### Run it again safely
 
 The tool updates `manifest.json` after each video, with an atomic write (a temporary file, then a rename). You can stop a run with Ctrl+C at any time. On the next run, the tool skips videos with the status `ok` or `no_captions` and tries the `failed` videos again. Use `--force` to fetch all videos again, for example to get captions that YouTube added after the first run.
 
-## How each video is fetched
+### How each video is fetched
 
 1. yt-dlp writes `<id>.info.json` without captions.
 2. The tool selects one caption track from the track lists in that file.
 3. yt-dlp downloads only that track as json3, with `--load-info-json`. This step reuses the saved metadata, so it makes no second page request.
 
-### Rate limits
+#### Rate limits
 
 YouTube limits a guest session to about 300 videos per hour for each IP address. The [yt-dlp wiki](https://github.com/yt-dlp/yt-dlp/wiki/Extractors) gives this number. More workers do not raise this limit. So the tool starts at most one video every `--pace` seconds. The default of 15 seconds gives about 240 videos per hour. Two workers let one video download while the next one waits for its start time.
 
 The tool also sleeps between requests (`--sleep-requests 1`, `--sleep-subtitles 2`). If yt-dlp reports HTTP 429 or a bot check, the tool tries again up to 3 times. The waits are about 15, 30 and 60 seconds. If YouTube still blocks the video, the tool marks it `failed` and stops the run. More requests during a block only make the block longer. Wait about an hour, then run the same command again.
 
-### Caption choice
+#### Caption choice
 
 The tool selects the first track that matches, in this order:
 
@@ -86,7 +96,7 @@ If the `language` field is empty and only one `-orig` track exists, the tool use
 
 The manifest records the track key in `captionTrack`. It records the track type, `manual` or `auto`, in `captionKind`.
 
-### Caption cleanup
+#### Caption cleanup
 
 The json3 parser turns caption events into segments of `{ startMs, durMs, text, speakerChange }`:
 
@@ -97,7 +107,7 @@ The json3 parser turns caption events into segments of `{ startMs, durMs, text, 
 - It decodes HTML entities, removes `[music]`-style tags, and collapses whitespace.
 - It drops segments that contain only non-speech tags, such as `[Music]`, `(laughs)` or `♪`.
 
-## Output
+### Output
 
 ```
 data/<channel-slug>/
@@ -113,7 +123,7 @@ The channel slug comes from the input alone, so `render` does not need the netwo
 
 The raw files contain caption URLs with your IP address. Do not publish the `data/` folder.
 
-### Markdown format
+#### Markdown format
 
 Each file starts with YAML frontmatter:
 
@@ -150,7 +160,7 @@ A segment belongs to the chapter in which it starts. Chapter times come from the
 
 The renderer is a pure function in `src/render/markdown.ts`. To change the format, edit that file and run `pnpm yt render <channel>`.
 
-## Known failure modes
+### Known failure modes
 
 - HTTP 429 (Too Many Requests): YouTube limits the request rate. The tool tries again 3 times and then marks the video `failed`. Run `fetch` again later, and the tool retries only the failed videos. If 429 errors continue, use `--concurrency 1`.
 - "Sign in to confirm you’re not a bot": YouTube blocks requests that look automated. Give `--cookies-from-browser <browser>` (for example `chrome`, `firefox` or `safari`) to use the session of a browser where you are signed in to YouTube. Use an account that you can afford to lose, because YouTube can flag accounts that make many automated requests.
@@ -158,7 +168,7 @@ The renderer is a pure function in `src/render/markdown.ts`. To change the forma
 - Blocked datacenter IP addresses: YouTube blocks or challenges most cloud and VPN IP ranges. Run the tool on your own computer on a home network, not on a cloud server.
 - Missing JavaScript runtime: yt-dlp reports that it cannot solve a challenge. Make sure that Node 22 or later is on your PATH. You can also choose another runtime with `--js-runtime`.
 
-## Development
+### Development
 
 ```sh
 pnpm typecheck

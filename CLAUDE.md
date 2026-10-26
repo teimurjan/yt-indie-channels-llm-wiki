@@ -1,4 +1,4 @@
-# indb
+# yt-indie-channels-llm-wiki
 
 This repo has two parts. The `yt-captions` tool in `src/` downloads YouTube transcripts. The README documents the tool. The `wiki/` folder is an LLM wiki: a set of linked markdown pages that the LLM writes from the transcripts and keeps current. This file is the wiki schema. Read it before you answer a question about the content or change the wiki.
 
